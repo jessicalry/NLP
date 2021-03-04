@@ -273,7 +273,8 @@ def main():
             for idx in line:
                 outwrite.write(str(idx))
                 outwrite.write(" ")
-            outwrite.write('\n')
+            if sorted_out.index(line)<315000:
+                outwrite.write('\n')
 
         i+=1 #go to the next query
     # print("--- %s seconds ---" % (time.time() - start_time))
