@@ -86,7 +86,11 @@ def main():
                         if term == rest_terms:
                             cc+=1
                             #print(cc)
-                    TF_list.append(cc)
+                    # TF_list.append(math.log(cc/len(all_q[Id])))
+                    if cc!=0:
+                        TF_list.append(1)
+                    else:
+                        TF_list.append(0)
                 TF_dict[Id] = TF_list
         # print(TF_dict)
                 
@@ -117,7 +121,7 @@ def main():
                 TFIDF_list.append(TFIDF)
                 TFIDF_dict_q[ID] = TFIDF_list
 
-        print(TFIDF_dict_q)
+        # print(TFIDF_dict_q)
 
 
 
@@ -180,7 +184,11 @@ def main():
                         if term == rest_terms:
                             cc+=1
                             #print(cc)
-                    TF_list.append(cc)
+                    # TF_list.append(math.log(cc/len(all_ab[Id])))
+                    if cc!=0:
+                        TF_list.append(1)
+                    else:
+                        TF_list.append(0)
                 TF_dict[Id] = TF_list
                 
         #to calculate the idf score: log(doc_nums/doc_num_containing_term)
