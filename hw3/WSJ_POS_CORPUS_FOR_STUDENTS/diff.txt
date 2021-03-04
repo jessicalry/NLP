@@ -1,0 +1,6502 @@
+11c11
+< points	VBZ
+---
+> points	NNS
+51c51
+< about	RB
+---
+> about	IN
+103c103
+< reported	VBD
+---
+> reported	VBN
+116c116
+< cited	VBN
+---
+> cited	VBD
+124c124
+< down	RB
+---
+> down	IN
+145c145
+< as	RB
+---
+> as	IN
+149c149
+< manufacturing	NN
+---
+> manufacturing	VBG
+183c183
+< inched	VBD
+---
+> inched	VBN
+269c269
+< Trade	NNP
+---
+> Trade	NN
+330c330
+< read	VBD
+---
+> read	VBP
+351,352c351,352
+< more	RBR
+< comforting	JJ
+---
+> more	JJR
+> comforting	VBG
+377c377
+< run	VBN
+---
+> run	VBD
+503c503
+< Food	NNP
+---
+> Food	NN
+538c538
+< core	JJ
+---
+> core	NN
+563c563
+< much	RB
+---
+> much	JJ
+568c568
+< core	JJ
+---
+> core	NN
+574c574
+< far	RB
+---
+> far	JJ
+579c579
+< Housing	NNP
+---
+> Housing	NN
+584c584
+< quicken	CD
+---
+> quicken	VB
+593c593
+< 1,350,000	JJ
+---
+> 1,350,000	CD
+605c605
+< multifamily	JJ
+---
+> multifamily	RB
+612c612
+< starts	VBZ
+---
+> starts	NNS
+629,630c629,630
+< sixty-day	NN
+< plant-closing	NN
+---
+> sixty-day	JJ
+> plant-closing	JJ
+632c632
+< 's	POS
+---
+> 's	VBZ
+653c653
+< quit	VBD
+---
+> quit	VBP
+662,663c662,663
+< Candid	JJ
+< Comment	NN
+---
+> Candid	NNP
+> Comment	NNP
+683c683
+< down	RB
+---
+> down	IN
+738c738
+< ago	RB
+---
+> ago	IN
+755c755
+< long	RB
+---
+> long	JJ
+766,769c766,769
+< Let	NNP
+< 's	POS
+< make	NN
+< that	IN
+---
+> Let	VB
+> 's	PRP
+> make	VB
+> that	DT
+791c791
+< set	VBD
+---
+> set	VBN
+798c798
+< mid-sized	NN
+---
+> mid-sized	JJ
+800c800
+< firm	NN
+---
+> firm	JJ
+825c825
+< blend	VB
+---
+> blend	NN
+844c844
+< come	VBN
+---
+> come	VBP
+871c871
+< second	JJ
+---
+> second	NN
+876c876
+< need	VBP
+---
+> need	MD
+890c890
+< less	JJR
+---
+> less	RBR
+897c897
+< slickly	NN
+---
+> slickly	RB
+931,932c931,932
+< Turned	JJ
+< loose	JJ
+---
+> Turned	VBN
+> loose	RB
+944,945c944,945
+< little	JJ
+< right	NN
+---
+> little	RB
+> right	RB
+968c968
+< about	RB
+---
+> about	IN
+979c979
+< opening	NN
+---
+> opening	VBG
+1026c1026
+< blabs	NNP
+---
+> blabs	VBZ
+1041c1041
+< Little	NNP
+---
+> Little	JJ
+1077c1077
+< perfidious	NNP
+---
+> perfidious	JJ
+1092c1092
+< unloaded	JJ
+---
+> unloaded	VBN
+1094c1094
+< spurt	NN
+---
+> spurt	VBP
+1110c1110
+< second	JJ
+---
+> second	NN
+1127c1127
+< rid	VBN
+---
+> rid	JJ
+1139c1139
+< Japanese	NNS
+---
+> Japanese	JJ
+1147c1147
+< Surprisingly	NNP
+---
+> Surprisingly	RB
+1161,1162c1161,1162
+< innocently	NNS
+< bumble	VBP
+---
+> innocently	RB
+> bumble	VB
+1197c1197
+< loutish	NNP
+---
+> loutish	JJ
+1200c1200
+< demand	VB
+---
+> demand	VBP
+1216c1216
+< kelp	JJ
+---
+> kelp	NN
+1226,1227c1226,1227
+< hurries	JJ
+< home	NN
+---
+> hurries	VBZ
+> home	RB
+1269c1269
+< conspicuously	CD
+---
+> conspicuously	RB
+1293c1293
+< lives	NNS
+---
+> lives	VBZ
+1304c1304
+< canary-colored	NNP
+---
+> canary-colored	JJ
+1318c1318
+< beat-up	NN
+---
+> beat-up	JJ
+1329c1329
+< pliers	NN
+---
+> pliers	NNS
+1332c1332
+< ignition	JJ
+---
+> ignition	NN
+1362c1362
+< past	JJ
+---
+> past	IN
+1377c1377
+< anomalies	NN
+---
+> anomalies	NNS
+1380c1380
+< class-conscious	NNP
+---
+> class-conscious	JJ
+1442c1442
+< Yuppily	NNP
+---
+> Yuppily	RB
+1469c1469
+< palatable	VBD
+---
+> palatable	JJ
+1480,1481c1480,1481
+< inflates	NNP
+< pony-tailed	NNP
+---
+> inflates	VBZ
+> pony-tailed	JJ
+1511c1511
+< dupes	VBD
+---
+> dupes	VBZ
+1519c1519
+< pet	JJ
+---
+> pet	NN
+1528c1528
+< dumps	NNS
+---
+> dumps	VBZ
+1531c1531
+< Dieppe	NN
+---
+> Dieppe	NNP
+1548c1548
+< much	RB
+---
+> much	JJ
+1565c1565
+< inconsiderable	RB
+---
+> inconsiderable	JJ
+1589c1589
+< set	VBD
+---
+> set	NN
+1601c1601
+< earlier	RBR
+---
+> earlier	JJR
+1607c1607
+< half	NN
+---
+> half	DT
+1628c1628
+< London	NNP
+---
+> London	JJ
+1651c1651
+< Yank-oriented	NN
+---
+> Yank-oriented	JJ
+1674c1674
+< that	IN
+---
+> that	DT
+1679,1680c1679,1680
+< discreetly	NNP
+< hopeful	NN
+---
+> discreetly	RB
+> hopeful	JJ
+1691c1691
+< Company	NN
+---
+> Company	NNP
+1695,1696c1695,1696
+< Too	RB
+< Close	RB
+---
+> Too	NNP
+> Close	NNP
+1702,1704c1702,1704
+< Check	VB
+< It	PRP
+< Out	RB
+---
+> Check	NNP
+> It	NNP
+> Out	NNP
+1710c1710
+< antecedents	NN
+---
+> antecedents	NNS
+1748c1748
+< screwball	NN
+---
+> screwball	JJ
+1751,1752c1751,1752
+< Carry	NN
+< On	IN
+---
+> Carry	NNP
+> On	NNP
+1757c1757
+< 1960s	NNS
+---
+> 1960s	CD
+1775c1775
+< marvelously	NN
+---
+> marvelously	RB
+1791c1791
+< broken	JJ
+---
+> broken	VBN
+1804c1804
+< bear	NN
+---
+> bear	VBP
+1806c1806
+< resemblances	NN
+---
+> resemblances	NNS
+1808,1809c1808,1809
+< American	NNP
+< TV	NNP
+---
+> American	JJ
+> TV	NN
+1870c1870
+< blank-faced	NN
+---
+> blank-faced	JJ
+1881c1881
+< OK	JJ
+---
+> OK	UH
+1889,1891c1889,1891
+< Carry	NN
+< On	IN
+< Trading	NN
+---
+> Carry	NNP
+> On	NNP
+> Trading	NNP
+1917c1917
+< bought	VBD
+---
+> bought	VBN
+1940c1940
+< backflips	VBD
+---
+> backflips	VBZ
+1943c1943
+< desktop	JJ
+---
+> desktop	NN
+1948c1948
+< explodes	NNP
+---
+> explodes	VBZ
+1956c1956
+< microchips	NN
+---
+> microchips	NNS
+1994c1994
+< Assurances	NNP
+---
+> Assurances	NNPS
+2001c2001
+< financing	NN
+---
+> financing	VBG
+2005c2005
+< proposed	JJ
+---
+> proposed	VBN
+2011c2011
+< Farmers	NNP
+---
+> Farmers	NNPS
+2032c2032
+< proposed	JJ
+---
+> proposed	VBN
+2066c2066
+< Farmers	NNS
+---
+> Farmers	NNPS
+2083c2083
+< Farmers	NNP
+---
+> Farmers	NNPS
+2092c2092
+< Farmers	NNS
+---
+> Farmers	NNPS
+2119c2119
+< Investments	NNP
+---
+> Investments	NNPS
+2198,2199c2198,2199
+< chief	JJ
+< executive	NN
+---
+> chief	NN
+> executive	JJ
+2237c2237
+< banking	NN
+---
+> banking	VBG
+2265c2265
+< more	JJR
+---
+> more	RBR
+2300c2300
+< non-insurance	NNP
+---
+> non-insurance	NN
+2321c2321
+< Farmers	NNP
+---
+> Farmers	NNPS
+2332c2332
+< Farmers	NNP
+---
+> Farmers	NNPS
+2343c2343
+< point	VB
+---
+> point	VBP
+2345c2345
+< that	IN
+---
+> that	DT
+2358c2358
+< Farmers	NNS
+---
+> Farmers	NNPS
+2371c2371
+< that	IN
+---
+> that	DT
+2381c2381
+< need	VBP
+---
+> need	VB
+2405c2405
+< Farmers	NNP
+---
+> Farmers	NNPS
+2420c2420
+< Farmers	NNP
+---
+> Farmers	NNPS
+2432c2432
+< Farmers	NNP
+---
+> Farmers	NNPS
+2435c2435
+< related	JJ
+---
+> related	VBN
+2474c2474
+< proposed	JJ
+---
+> proposed	VBN
+2487c2487
+< 20.71	JJ
+---
+> 20.71	CD
+2510c2510
+< propsed	JJ
+---
+> propsed	VBN
+2513c2513
+< Farmers	NNP
+---
+> Farmers	NNPS
+2530c2530
+< that	WDT
+---
+> that	IN
+2536c2536
+< that	DT
+---
+> that	IN
+2550c2550
+< very-highly	NN
+---
+> very-highly	JJ
+2564c2564
+< Farmers	NNP
+---
+> Farmers	NNPS
+2580c2580
+< double	VB
+---
+> double	RB
+2586c2586
+< out	RP
+---
+> out	IN
+2588c2588
+< Farmers	NNP
+---
+> Farmers	NNPS
+2604c2604
+< Farmers	NNP
+---
+> Farmers	NNPS
+2638c2638
+< Dismal	NNP
+---
+> Dismal	JJ
+2651c2651
+< down	RB
+---
+> down	IN
+2677c2677
+< 160,510	NNP
+---
+> 160,510	CD
+2699,2700c2699,2700
+< Domestically	NNP
+< built	VBD
+---
+> Domestically	RB
+> built	VBN
+2704c2704
+< down	RB
+---
+> down	IN
+2708,2709c2708,2709
+< 86,555	NNP
+< pickups	NNP
+---
+> 86,555	CD
+> pickups	NNS
+2739c2739
+< out	RB
+---
+> out	IN
+2776c2776
+< fall	VBP
+---
+> fall	VB
+2782c2782
+< 's	VBZ
+---
+> 's	POS
+2801c2801
+< ago	RB
+---
+> ago	IN
+2848c2848
+< up	RB
+---
+> up	IN
+2885c2885
+< Car	NNP
+---
+> Car	NN
+2893c2893
+< selling	NN
+---
+> selling	VBG
+2928c2928
+< late	RB
+---
+> late	JJ
+2962c2962
+< down	RP
+---
+> down	IN
+2974c2974
+< ago	RB
+---
+> ago	IN
+3002c3002
+< fledging	JJ
+---
+> fledging	VBG
+3033c3033
+< drop	NN
+---
+> drop	VBP
+3105c3105
+< mixed	JJ
+---
+> mixed	VBN
+3203c3203
+< Accords	NNP
+---
+> Accords	NNPS
+3219c3219
+< back	RP
+---
+> back	RB
+3255c3255
+< Firm	NN
+---
+> Firm	JJ
+3277c3277
+< base	JJ
+---
+> base	NN
+3308c3308
+< reported	VBD
+---
+> reported	VBN
+3334c3334
+< selling	NN
+---
+> selling	VBG
+3373,3374c3373,3374
+< chief	JJ
+< executive	NN
+---
+> chief	NN
+> executive	JJ
+3394c3394
+< rocket-propulsion	NNP
+---
+> rocket-propulsion	NN
+3416c3416
+< repairs	NNS
+---
+> repairs	VBZ
+3429c3429
+< electro-optics	NNP
+---
+> electro-optics	NNS
+3448,3449c3448,3449
+< long	RB
+< ago	RB
+---
+> long	JJ
+> ago	IN
+3497c3497
+< Employees	NNP
+---
+> Employees	NNS
+3506c3506
+< hung	VBN
+---
+> hung	VBD
+3592,3593c3592,3593
+< brought	VBN
+< on	IN
+---
+> brought	VBD
+> on	RP
+3657c3657
+< broadcasting	VBG
+---
+> broadcasting	NN
+3673c3673
+< imperialism	NNP
+---
+> imperialism	NN
+3717c3717
+< computer-science	NNP
+---
+> computer-science	NN
+3729c3729
+< Hungarian	JJ
+---
+> Hungarian	NNP
+3745c3745
+< on	IN
+---
+> on	RP
+3759c3759
+< media	NN
+---
+> media	NNS
+3763c3763
+< Boys	NNPS
+---
+> Boys	NNS
+3768c3768
+< peddle	VB
+---
+> peddle	VBP
+3787c3787
+< Radio	NNP
+---
+> Radio	NN
+3792c3792
+< livelier	NNS
+---
+> livelier	JJR
+3815c3815
+< though	RB
+---
+> though	IN
+3824c3824
+< Hungarian	JJ
+---
+> Hungarian	NNP
+3851c3851
+< let	VB
+---
+> let	VBN
+3871c3871
+< plan	VBP
+---
+> plan	VB
+3874c3874
+< away	RP
+---
+> away	RB
+3885c3885
+< capitalist	JJ
+---
+> capitalist	NN
+3934c3934
+< more	JJR
+---
+> more	RBR
+3958c3958
+< tongues	NN
+---
+> tongues	NNS
+3961c3961
+< Bulgarian	JJ
+---
+> Bulgarian	NNP
+3963c3963
+< Belorussian	NN
+---
+> Belorussian	NNP
+3967c3967
+< Kirghiz	NN
+---
+> Kirghiz	NNP
+3999c3999
+< Hungarian	JJ
+---
+> Hungarian	NNP
+4050c4050
+< Hungarian	JJ
+---
+> Hungarian	NNP
+4055c4055
+< approve	VBP
+---
+> approve	VB
+4067c4067
+< Telecommunications	NNP
+---
+> Telecommunications	NNPS
+4131c4131
+< frequencies	NN
+---
+> frequencies	NNS
+4148c4148
+< messengers	NN
+---
+> messengers	NNS
+4190c4190
+< Dark	JJ
+---
+> Dark	NNP
+4195c4195
+< Century	NNP
+---
+> Century	NN
+4211c4211
+< up	RP
+---
+> up	IN
+4335c4335
+< Television	NNP
+---
+> Television	NN
+4357,4358c4357,4358
+< The	DT
+< End	NN
+---
+> The	NNP
+> End	NNP
+4366c4366
+< on	IN
+---
+> on	RP
+4369c4369
+< p.m	NN
+---
+> p.m	RB
+4384c4384
+< discuss	VB
+---
+> discuss	VBP
+4389c4389
+< as	IN
+---
+> as	RB
+4408c4408
+< up	RP
+---
+> up	RB
+4421,4422c4421,4422
+< Hungarian	JJ
+< Radio	NN
+---
+> Hungarian	NNP
+> Radio	NNP
+4430c4430
+< influencing	JJ
+---
+> influencing	VBG
+4462c4462
+< Nagykanizsa	NN
+---
+> Nagykanizsa	NNP
+4467c4467
+< Nyiregyhaza	VB
+---
+> Nyiregyhaza	NNP
+4479c4479
+< 40-minute	NN
+---
+> 40-minute	JJ
+4482c4482
+< called	VBD
+---
+> called	VBN
+4527c4527
+< 35-minute	NN
+---
+> 35-minute	JJ
+4529c4529
+< called	VBD
+---
+> called	VBN
+4531c4531
+< The	DT
+---
+> The	NNP
+4540c4540
+< tidbits	NN
+---
+> tidbits	NNS
+4573c4573
+< intersperses	VBD
+---
+> intersperses	VBZ
+4625c4625
+< Proposals	NNP
+---
+> Proposals	NNS
+4627c4627
+< government-operated	NN
+---
+> government-operated	JJ
+4634c4634
+< influenza	NNP
+---
+> influenza	NN
+4636c4636
+< flare	VBG
+---
+> flare	VBP
+4643c4643
+< depress	VB
+---
+> depress	VBP
+4649c4649
+< politic	NN
+---
+> politic	JJ
+4651c4651
+< run	VB
+---
+> run	VBP
+4662c4662
+< mutate	NNP
+---
+> mutate	VB
+4664c4664
+< afflict	JJ
+---
+> afflict	VB
+4675c4675
+< mind	VB
+---
+> mind	NN
+4683c4683
+< aspersion	JJ
+---
+> aspersion	NN
+4711,4712c4711,4712
+< one	CD
+< thought	NN
+---
+> one	NN
+> thought	VBD
+4719c4719
+< 1970s	NNS
+---
+> 1970s	CD
+4721c4721
+< along	RB
+---
+> along	IN
+4767c4767
+< national-service	NN
+---
+> national-service	JJ
+4769c4769
+< keep	VBP
+---
+> keep	VB
+4771c4771
+< back	RP
+---
+> back	RB
+4777c4777
+< because	IN
+---
+> because	RB
+4780c4780
+< evokes	VBD
+---
+> evokes	VBZ
+4797c4797
+< wastrel	JJ
+---
+> wastrel	NN
+4862c4862
+< suspect	JJ
+---
+> suspect	VBP
+4882c4882
+< national-service	NN
+---
+> national-service	JJ
+4896c4896
+< Choice	NNP
+---
+> Choice	NN
+4903c4903
+< 1970s	NNS
+---
+> 1970s	CD
+4906c4906
+< doom	NN
+---
+> doom	VB
+4909,4910c4909,4910
+< as	IN
+< much	JJ
+---
+> as	RB
+> much	RB
+4930c4930
+< ago	RB
+---
+> ago	IN
+4936,4937c4936,4937
+< let	VB
+< loose	JJ
+---
+> let	VBN
+> loose	RB
+4947c4947
+< connected	JJ
+---
+> connected	VBN
+5026c5026
+< infecting	JJ
+---
+> infecting	VBG
+5039c5039
+< Democratic	JJ
+---
+> Democratic	NNP
+5095c5095
+< DLC	JJ
+---
+> DLC	NNP
+5097c5097
+< envisaged	VBD
+---
+> envisaged	VBN
+5104,5105c5104,5105
+< emptying	NNP
+< bedpans	NNP
+---
+> emptying	VBG
+> bedpans	NNS
+5107c5107
+< tutoring	JJ
+---
+> tutoring	VBG
+5112c5112
+< librarians	NN
+---
+> librarians	NNS
+5132c5132
+< voucher	CD
+---
+> voucher	NN
+5156c5156
+< Mind	NNP
+---
+> Mind	VB
+5167c5167
+< unskilled	CD
+---
+> unskilled	JJ
+5171c5171
+< 18-year-olds	NNP
+---
+> 18-year-olds	NNS
+5182c5182
+< saving	NN
+---
+> saving	VBG
+5194c5194
+< better	RBR
+---
+> better	RB
+5221c5221
+< developed	VBN
+---
+> developed	VBD
+5227,5228c5227,5228
+< that	IN
+< count	NN
+---
+> that	WDT
+> count	VBP
+5236c5236
+< so	RB
+---
+> so	IN
+5238,5239c5238,5239
+< national-service	NNP
+< devotees	NNP
+---
+> national-service	NN
+> devotees	NNS
+5257c5257
+< Opposition	NNP
+---
+> Opposition	NN
+5275c5275
+< led	VBN
+---
+> led	VBD
+5278c5278
+< military-service	NN
+---
+> military-service	JJ
+5296c5296
+< up	RP
+---
+> up	IN
+5312c5312
+< that	DT
+---
+> that	IN
+5317c5317
+< expansionism	NNS
+---
+> expansionism	NN
+5320c5320
+< many	PDT
+---
+> many	JJ
+5325c5325
+< porridge	NNP
+---
+> porridge	NN
+5330c5330
+< back	JJ
+---
+> back	NN
+5337c5337
+< forward	RP
+---
+> forward	RB
+5339c5339
+< presented	VBN
+---
+> presented	VBD
+5355c5355
+< called	VBN
+---
+> called	VBD
+5361c5361
+< leftovers	NN
+---
+> leftovers	NNS
+5377c5377
+< DLC	NN
+---
+> DLC	NNP
+5427c5427
+< pleasing	VBG
+---
+> pleasing	JJ
+5441c5441
+< engorgement	NNS
+---
+> engorgement	NN
+5444c5444
+< VISTA	JJ
+---
+> VISTA	NNP
+5457,5458c5457,5458
+< Senior	JJ
+< Companion	JJ
+---
+> Senior	NNP
+> Companion	NNP
+5469c5469
+< House	NNP
+---
+> House	NN
+5482c5482
+< posted	VBD
+---
+> posted	VBN
+5499c5499
+< spoil	VBD
+---
+> spoil	VBP
+5530c5530
+< out	RP
+---
+> out	IN
+5552c5552
+< hard	JJ
+---
+> hard	RB
+5617c5617
+< 1980s	NNS
+---
+> 1980s	CD
+5670c5670
+< scholarships	NN
+---
+> scholarships	NNS
+5674c5674
+< called	VBD
+---
+> called	VBN
+5708c5708
+< need	VBP
+---
+> need	VB
+5736,5737c5736,5737
+< staff	NN
+< menial	NN
+---
+> staff	VB
+> menial	JJ
+5748c5748
+< pay	NN
+---
+> pay	VB
+5751c5751
+< labor-saving	NN
+---
+> labor-saving	JJ
+5762c5762
+< overpay	JJ
+---
+> overpay	VB
+5785c5785
+< Will	NNP
+---
+> Will	MD
+5791c5791
+< current	JJ
+---
+> current	NN
+5797,5799c5797,5799
+< exert	NN
+< enough	RB
+< appeal	VB
+---
+> exert	VB
+> enough	JJ
+> appeal	NN
+5838c5838
+< Democrats	NNPS
+---
+> Democrats	NNP
+5871c5871
+< So	RB
+---
+> So	IN
+5877c5877
+< ill-disposed	VBN
+---
+> ill-disposed	JJ
+5893c5893
+< Points	NN
+---
+> Points	NNPS
+5909c5909
+< exhort	NN
+---
+> exhort	VB
+5913c5913
+< volunteerism	NNS
+---
+> volunteerism	NN
+5930c5930
+< in	IN
+---
+> in	RP
+5953c5953
+< brokering	NN
+---
+> brokering	VBG
+5987c5987
+< National	NNP
+---
+> National	JJ
+5998c5998
+< away	RP
+---
+> away	RB
+6008c6008
+< knee-socked	NN
+---
+> knee-socked	JJ
+6026c6026
+< progenitors	NN
+---
+> progenitors	NNS
+6080,6081c6080,6081
+< chief	JJ
+< operating	NN
+---
+> chief	NN
+> operating	VBG
+6085c6085
+< past	JJ
+---
+> past	NN
+6090c6090
+< chief	JJ
+---
+> chief	NN
+6136,6137c6136,6137
+< chief	JJ
+< operating	NN
+---
+> chief	NN
+> operating	VBG
+6146c6146
+< Physicians	NNP
+---
+> Physicians	NNPS
+6174c6174
+< Physicians	NNP
+---
+> Physicians	NNPS
+6283c6283
+< Statistics	NNPS
+---
+> Statistics	NNP
+6353c6353
+< down	RP
+---
+> down	IN
+6359c6359
+< posted	VBD
+---
+> posted	VBN
+6417c6417
+< Bonds	NNPS
+---
+> Bonds	NNP
+6432c6432
+< about	RB
+---
+> about	IN
+6458c6458
+< Bonds	NNPS
+---
+> Bonds	NNP
+6498c6498
+< localities	NN
+---
+> localities	NNS
+6511c6511
+< made	VBN
+---
+> made	VBD
+6517c6517
+< high-school	JJ
+---
+> high-school	NN
+6548c6548
+< co-sponsored	VBN
+---
+> co-sponsored	JJ
+6583c6583
+< omnibus	JJ
+---
+> omnibus	NN
+6600c6600
+< Nunn-McCurdy	NN
+---
+> Nunn-McCurdy	NNP
+6606,6607c6606,6607
+< fellow	JJ
+< Democratic	JJ
+---
+> fellow	NN
+> Democratic	NNP
+6621c6621
+< out	RP
+---
+> out	IN
+6662c6662
+< one	CD
+---
+> one	NN
+6670c6670
+< Doctrine	NNP
+---
+> Doctrine	NN
+6685c6685
+< pay	VB
+---
+> pay	VBP
+6687c6687
+< dues	NN
+---
+> dues	NNS
+6691c6691
+< favor	NN
+---
+> favor	VBP
+6701c6701
+< do	VB
+---
+> do	VBP
+6707c6707
+< re-energized	NN
+---
+> re-energized	JJ
+6718c6718
+< as	IN
+---
+> as	RB
+6739c6739
+< abomination	NNP
+---
+> abomination	NN
+6755c6755
+< question	NN
+---
+> question	VBP
+6783c6783
+< worth	IN
+---
+> worth	JJ
+6788c6788
+< Elements	NNP
+---
+> Elements	NNS
+6791c6791
+< left	NN
+---
+> left	JJ
+6810c6810
+< regimentation	JJ
+---
+> regimentation	NN
+6815c6815
+< want	VBP
+---
+> want	VB
+6819c6819
+< enlarged	JJ
+---
+> enlarged	VBN
+6845,6846c6845,6846
+< think	VBP
+< about	RB
+---
+> think	VB
+> about	IN
+6851,6852c6851,6852
+< Let	NNP
+< 's	POS
+---
+> Let	VB
+> 's	PRP
+6873c6873
+< service	VB
+---
+> service	NN
+6877c6877
+< compulsory	NN
+---
+> compulsory	JJ
+6880c6880
+< Short	NNP
+---
+> Short	JJ
+6882c6882
+< long	RB
+---
+> long	JJ
+6885c6885
+< Part-time	NNP
+---
+> Part-time	JJ
+6890c6890
+< Paid	NNP
+---
+> Paid	VBN
+6897c6897
+< live	VBP
+---
+> live	VB
+6902c6902
+< nearby	JJ
+---
+> nearby	RB
+6906c6906
+< barracks	NNP
+---
+> barracks	NN
+6908c6908
+< work	NN
+---
+> work	VB
+6914c6914
+< What	WP
+---
+> What	WDT
+6920c6920
+< do	VBP
+---
+> do	VB
+6928c6928
+< mean	NN
+---
+> mean	VB
+6971c6971
+< Youth	NNP
+---
+> Youth	NN
+6978c6978
+< Middle-class	NNP
+---
+> Middle-class	JJ
+6988c6988
+< cross-section	NNS
+---
+> cross-section	NN
+7019,7020c7019,7020
+< think	VBP
+< about	RB
+---
+> think	VB
+> about	IN
+7027c7027
+< starting	JJ
+---
+> starting	VBG
+7035c7035
+< 1	CD
+---
+> 1	LS
+7071c7071
+< Service	NNP
+---
+> Service	NN
+7115c7115
+< worth	IN
+---
+> worth	JJ
+7140c7140
+< amount	NN
+---
+> amount	VBP
+7148c7148
+< GI	NN
+---
+> GI	NNP
+7182,7183c7182,7183
+< call	NN
+< that	IN
+---
+> call	VB
+> that	DT
+7189c7189
+< Encouragement	NNP
+---
+> Encouragement	NN
+7193c7193
+< compulsion	NNP
+---
+> compulsion	NN
+7198c7198
+< Compelled	JJ
+---
+> Compelled	VBN
+7209c7209
+< unenforceable	NN
+---
+> unenforceable	JJ
+7219c7219
+< refusers	NN
+---
+> refusers	NNS
+7322c7322
+< fought	VBD
+---
+> fought	VBN
+7328c7328
+< tutored	NN
+---
+> tutored	VBN
+7344c7344
+< existing	JJ
+---
+> existing	VBG
+7391c7391
+< stipends	VBN
+---
+> stipends	NNS
+7396c7396
+< Full-time	NNP
+---
+> Full-time	JJ
+7423c7423
+< Non-residential	NNP
+---
+> Non-residential	JJ
+7444c7444
+< that	IN
+---
+> that	DT
+7455c7455
+< so	RB
+---
+> so	IN
+7469c7469
+< challengeable	NN
+---
+> challengeable	JJ
+7472c7472
+< 5	CD
+---
+> 5	LS
+7474c7474
+< Underclass	JJ
+---
+> Underclass	NNS
+7482c7482
+< Are	NNP
+---
+> Are	VBP
+7515c7515
+< middle-class	NN
+---
+> middle-class	JJ
+7570c7570
+< enrolled	VBD
+---
+> enrolled	VBN
+7592c7592
+< unprecedentedly	NNP
+---
+> unprecedentedly	RB
+7600c7600
+< down	RP
+---
+> down	IN
+7605c7605
+< behaviors	NN
+---
+> behaviors	NNS
+7619c7619
+< reoriented	JJ
+---
+> reoriented	VBN
+7623c7623
+< disciplined	JJ
+---
+> disciplined	VBN
+7635c7635
+< drop	VB
+---
+> drop	VBP
+7653c7653
+< Learning	NNP
+---
+> Learning	VBG
+7666c7666
+< longer	RBR
+---
+> longer	RB
+7671c7671
+< depend	VB
+---
+> depend	VBP
+7683c7683
+< playgrounds	NN
+---
+> playgrounds	NNS
+7685c7685
+< paint	NN
+---
+> paint	VB
+7688c7688
+< plant	NN
+---
+> plant	VB
+7708,7709c7708,7709
+< Strictly	NNP
+< speaking	NN
+---
+> Strictly	RB
+> speaking	VBG
+7819c7819
+< Mean	VBD
+---
+> Mean	VB
+7838c7838
+< laid	VBN
+---
+> laid	VBD
+7853c7853
+< out	RP
+---
+> out	IN
+7876c7876
+< clear	VBP
+---
+> clear	JJ
+7953c7953
+< feared	VBN
+---
+> feared	VBD
+7999c7999
+< turn	NN
+---
+> turn	VB
+8018c8018
+< that	WDT
+---
+> that	DT
+8053c8053
+< foiled	VBD
+---
+> foiled	VBN
+8110c8110
+< authorized	VBD
+---
+> authorized	VBN
+8126c8126
+< portrayals	NN
+---
+> portrayals	NNS
+8183c8183
+< reticence	JJ
+---
+> reticence	NN
+8203c8203
+< Week	NN
+---
+> Week	NNP
+8233c8233
+< sure	RB
+---
+> sure	JJ
+8239c8239
+< right	RB
+---
+> right	JJ
+8263c8263
+< non-answer	NNP
+---
+> non-answer	JJ
+8274c8274
+< non-answer	NNP
+---
+> non-answer	NN
+8283c8283
+< that	WDT
+---
+> that	DT
+8345c8345
+< continued	JJ
+---
+> continued	VBN
+8401c8401
+< asked	VBN
+---
+> asked	VBD
+8423c8423
+< ago	RB
+---
+> ago	IN
+8428c8428
+< that	WDT
+---
+> that	DT
+8483c8483
+< EST	NN
+---
+> EST	NNP
+8487c8487
+< there	EX
+---
+> there	RB
+8562c8562
+< around	RP
+---
+> around	IN
+8724c8724
+< Administration	NNP
+---
+> Administration	NN
+8730c8730
+< briefed	VBD
+---
+> briefed	VBN
+8749c8749
+< consultations	NN
+---
+> consultations	NNS
+8805c8805
+< Springs	NNP
+---
+> Springs	NNPS
+8820c8820
+< following	JJ
+---
+> following	VBG
+8825c8825
+< as	RB
+---
+> as	IN
+8891,8892c8891,8892
+< turned	VBN
+< around	IN
+---
+> turned	VBD
+> around	RB
+8897c8897
+< returned	VBN
+---
+> returned	VBD
+8923c8923
+< reported	VBD
+---
+> reported	VBN
+8939c8939
+< listed	VBN
+---
+> listed	VBD
+8945c8945
+< asked	JJ
+---
+> asked	VBN
+8995c8995
+< g	NNP
+---
+> g	SYM
+8997,8998c8997,8998
+< 10.06.89	NNP
+< NAV:22.15	NNP
+---
+> 10.06.89	CD
+> NAV:22.15	NN
+9008c9008
+< down	RP
+---
+> down	IN
+9013c9013
+< Walk	VBP
+---
+> Walk	VB
+9021c9021
+< breaths	NN
+---
+> breaths	NNS
+9024c9024
+< Resist	NNP
+---
+> Resist	VB
+9100c9100
+< Do	VBP
+---
+> Do	VB
+9146c9146
+< ago	RB
+---
+> ago	IN
+9150c9150
+< selling	VBG
+---
+> selling	NN
+9183c9183
+< 1930s	NNS
+---
+> 1930s	CD
+9190c9190
+< massacres	NNP
+---
+> massacres	NNS
+9206c9206
+< sustained	JJ
+---
+> sustained	VBN
+9266c9266
+< chief	JJ
+---
+> chief	NN
+9313c9313
+< advisory	JJ
+---
+> advisory	NN
+9321c9321
+< wait	VB
+---
+> wait	VBP
+9377c9377
+< individual	JJ
+---
+> individual	NN
+9411c9411
+< counseling	NN
+---
+> counseling	VBG
+9433c9433
+< misguided	JJ
+---
+> misguided	VBN
+9458c9458
+< in	RP
+---
+> in	IN
+9481c9481
+< further	RBR
+---
+> further	RB
+9492c9492
+< So	RB
+---
+> So	IN
+9550c9550
+< in	RP
+---
+> in	IN
+9552c9552
+< out	RB
+---
+> out	IN
+9589c9589
+< buying	NN
+---
+> buying	VBG
+9608c9608
+< Investors	NNP
+---
+> Investors	NNPS
+9622c9622
+< fellow	JJ
+---
+> fellow	NN
+9627c9627
+< sell	VB
+---
+> sell	NN
+9661c9661
+< panics	JJ
+---
+> panics	NNS
+9673c9673
+< panics	NNP
+---
+> panics	NNS
+9750c9750
+< out	RP
+---
+> out	IN
+9892c9892
+< that	DT
+---
+> that	IN
+9896c9896
+< lower	RBR
+---
+> lower	JJR
+9936c9936
+< down	RP
+---
+> down	RB
+10016c10016
+< used	VBN
+---
+> used	VBD
+10039c10039
+< underlying	JJ
+---
+> underlying	VBG
+10061c10061
+< accounts	VBZ
+---
+> accounts	NNS
+10097c10097
+< start	NN
+---
+> start	VB
+10111c10111
+< So	RB
+---
+> So	IN
+10117c10117
+< err	VBP
+---
+> err	VB
+10122c10122
+< rekindled	JJ
+---
+> rekindled	VBN
+10141c10141
+< over	RB
+---
+> over	IN
+10147c10147
+< about	RB
+---
+> about	IN
+10169c10169
+< Treasury	NNP
+---
+> Treasury	NN
+10173c10173
+< up	RB
+---
+> up	IN
+10200c10200
+< manufacturing	NN
+---
+> manufacturing	VBG
+10205c10205
+< warning	NN
+---
+> warning	VBG
+10219c10219
+< in	RP
+---
+> in	IN
+10228c10228
+< put	VB
+---
+> put	VBN
+10232c10232
+< either	RB
+---
+> either	CC
+10248c10248
+< put	NN
+---
+> put	VBN
+10254c10254
+< right	NN
+---
+> right	RB
+10272c10272
+< specified	JJ
+---
+> specified	VBN
+10338c10338
+< puts	VBZ
+---
+> puts	NNS
+10367c10367
+< up	RP
+---
+> up	RB
+10396c10396
+< put-option	NNP
+---
+> put-option	NN
+10429c10429
+< much	RB
+---
+> much	JJ
+10458c10458
+< praiseworthy	NN
+---
+> praiseworthy	JJ
+10463c10463
+< say	VBP
+---
+> say	VB
+10473,10475c10473,10475
+< deep	RB
+< bite	VB
+< out	RP
+---
+> deep	JJ
+> bite	NN
+> out	IN
+10521c10521
+< more	JJR
+---
+> more	RBR
+10557c10557
+< up	RP
+---
+> up	IN
+10586c10586
+< out	RP
+---
+> out	IN
+10594c10594
+< chief	JJ
+---
+> chief	NN
+10641c10641
+< award	NN
+---
+> award	VB
+10865c10865
+< Bankers	NNP
+---
+> Bankers	NNPS
+10872c10872
+< Bankers	NNP
+---
+> Bankers	NNPS
+10896c10896
+< Bankers	NNP
+---
+> Bankers	NNPS
+10900c10900
+< financed	VBN
+---
+> financed	VBD
+10914c10914
+< named	VBN
+---
+> named	VBD
+10916c10916
+< outside	JJ
+---
+> outside	IN
+10932c10932
+< chief	JJ
+---
+> chief	NN
+10943c10943
+< chief	JJ
+---
+> chief	NN
+10999c10999
+< trading	NN
+---
+> trading	VBG
+11004c11004
+< stock-index	JJ
+---
+> stock-index	NN
+11071c11071
+< early-morning	JJ
+---
+> early-morning	NN
+11098c11098
+< surges	VBZ
+---
+> surges	NNS
+11110c11110
+< in	IN
+---
+> in	RP
+11118c11118
+< as	RB
+---
+> as	IN
+11172,11173c11172,11173
+< more	RBR
+< sweeping	JJ
+---
+> more	JJR
+> sweeping	VBG
+11221c11221
+< Treasury	NNP
+---
+> Treasury	NN
+11232c11232
+< involved	VBN
+---
+> involved	VBD
+11236c11236
+< overarching	JJ
+---
+> overarching	VBG
+11241c11241
+< cross-market	NN
+---
+> cross-market	JJ
+11326c11326
+< pauses	VBZ
+---
+> pauses	NNS
+11329c11329
+< 2:07	JJ
+---
+> 2:07	CD
+11332c11332
+< 2:30	JJ
+---
+> 2:30	CD
+11334c11334
+< CDT	NN
+---
+> CDT	NNP
+11337c11337
+< 2:45	JJ
+---
+> 2:45	CD
+11343c11343
+< trading	VBG
+---
+> trading	NN
+11348c11348
+< forced	VBN
+---
+> forced	VBD
+11362c11362
+< frozen	JJ
+---
+> frozen	VBN
+11385c11385
+< Sidecar	JJ
+---
+> Sidecar	NN
+11399,11400c11399,11400
+< separate	JJ
+< computer-generated	NN
+---
+> separate	VB
+> computer-generated	JJ
+11419c11419
+< One	NNP
+---
+> One	CD
+11422c11422
+< compared	VBN
+---
+> compared	VBD
+11432c11432
+< freezes	VBZ
+---
+> freezes	NNS
+11438c11438
+< well-drilled	NN
+---
+> well-drilled	JJ
+11504c11504
+< 30-point	NN
+---
+> 30-point	JJ
+11558c11558
+< estimated	VBN
+---
+> estimated	VBD
+11580c11580
+< 250-point	NN
+---
+> 250-point	JJ
+11587c11587
+< in	RP
+---
+> in	IN
+11625c11625
+< computerized	JJ
+---
+> computerized	VBN
+11686c11686
+< awash	NN
+---
+> awash	JJ
+11690c11690
+< sweeping	JJ
+---
+> sweeping	VBG
+11713c11713
+< down	RP
+---
+> down	RB
+11733c11733
+< pause	NN
+---
+> pause	VB
+11829c11829
+< likened	VBN
+---
+> likened	VBD
+11832c11832
+< barnacles	NN
+---
+> barnacles	NNS
+11858c11858
+< flow	NN
+---
+> flow	VB
+11886c11886
+< reshaped	VBN
+---
+> reshaped	VBD
+11893c11893
+< Arguing	NNP
+---
+> Arguing	VBG
+11898c11898
+< marketplaces	NN
+---
+> marketplaces	NNS
+11910c11910
+< raised	VBD
+---
+> raised	VBN
+11925c11925
+< called	VBN
+---
+> called	VBD
+11929c11929
+< super-regulator	NNS
+---
+> super-regulator	NN
+11943,11944c11943,11944
+< unify	JJ
+< clearing	NN
+---
+> unify	VB
+> clearing	VBG
+11977c11977
+< named	VBN
+---
+> named	VBD
+12010c12010
+< made	VBN
+---
+> made	VBD
+12036c12036
+< endorsed	VBN
+---
+> endorsed	VBD
+12092c12092
+< sops	NN
+---
+> sops	NNS
+12094c12094
+< interventionists	CD
+---
+> interventionists	NNS
+12101c12101
+< free-market	JJ
+---
+> free-market	NN
+12113c12113
+< once	IN
+---
+> once	RB
+12119c12119
+< Circuit	NNP
+---
+> Circuit	NN
+12122c12122
+< set	VBD
+---
+> set	VBN
+12150,12151c12150,12151
+< Industrials	NNP
+< fall	NN
+---
+> Industrials	NNPS
+> fall	VBP
+12175c12175
+< about	RB
+---
+> about	IN
+12238,12239c12238,12239
+< Industrials	NNP
+< fall	NN
+---
+> Industrials	NNPS
+> fall	VBP
+12248c12248
+< halts	NNS
+---
+> halts	VBZ
+12259c12259
+< halt	VB
+---
+> halt	VBP
+12271c12271
+< halts	NNS
+---
+> halts	VBZ
+12285c12285
+< halted	VBN
+---
+> halted	VBD
+12299c12299
+< Establish	CD
+---
+> Establish	VB
+12301c12301
+< overarching	JJ
+---
+> overarching	VBG
+12308,12309c12308,12309
+< Unify	CD
+< trade-clearing	CD
+---
+> Unify	VB
+> trade-clearing	JJ
+12313c12313
+< Make	VBP
+---
+> Make	VB
+12331c12331
+< Require	CD
+---
+> Require	VB
+12355c12355
+< Transfer	JJ
+---
+> Transfer	NN
+12358c12358
+< stock-related	NN
+---
+> stock-related	JJ
+12367c12367
+< Opposed	NN
+---
+> Opposed	VBN
+12398c12398
+< Create	CD
+---
+> Create	VB
+12468c12468
+< Nika	JJ
+---
+> Nika	NNP
+12476c12476
+< Nedelya	NN
+---
+> Nedelya	NNP
+12513c12513
+< Nedelya	NN
+---
+> Nedelya	NNP
+12579c12579
+< Communist	JJ
+---
+> Communist	NNP
+12597c12597
+< struck	VBD
+---
+> struck	VBN
+12605c12605
+< Mines	NNP
+---
+> Mines	NNPS
+12683c12683
+< bribed	VBD
+---
+> bribed	VBN
+12685c12685
+< pinball-parlor	CD
+---
+> pinball-parlor	NN
+12704c12704
+< reports	VBZ
+---
+> reports	NNS
+12709c12709
+< Japanese-style	NN
+---
+> Japanese-style	JJ
+12716c12716
+< infiltrated	JJ
+---
+> infiltrated	VBN
+12745c12745
+< yen	NNS
+---
+> yen	NN
+12793c12793
+< endangered	JJ
+---
+> endangered	VBN
+12809,12810c12809,12810
+< U.N.-sponsored	NN
+< Convention	NN
+---
+> U.N.-sponsored	JJ
+> Convention	NNP
+12816c12816
+< Species	NNPS
+---
+> Species	NNP
+12823c12823
+< trading	NN
+---
+> trading	VBG
+12828c12828
+< parakeets	NN
+---
+> parakeets	NNS
+12830c12830
+< orchids	CD
+---
+> orchids	NNS
+12863c12863
+< 1990s	NNS
+---
+> 1990s	CD
+12865c12865
+< torpedoed	NN
+---
+> torpedoed	VBN
+12907c12907
+< East-West	JJ
+---
+> East-West	NNP
+12937c12937
+< affinity	JJ
+---
+> affinity	NN
+12945c12945
+< Tories	NNPS
+---
+> Tories	NNS
+12964c12964
+< first	JJ
+---
+> first	RB
+12976c12976
+< pence	NNS
+---
+> pence	NN
+12992c12992
+< charges	NNS
+---
+> charges	VBZ
+13005c13005
+< high-interest-rate	NN
+---
+> high-interest-rate	JJ
+13009c13009
+< Labor	NN
+---
+> Labor	NNP
+13038c13038
+< year-long	NN
+---
+> year-long	JJ
+13046c13046
+< harnessing	JJ
+---
+> harnessing	VBG
+13065c13065
+< alarming	JJ
+---
+> alarming	VBG
+13080c13080
+< non-staple	NN
+---
+> non-staple	JJ
+13101c13101
+< down	RB
+---
+> down	IN
+13110c13110
+< more	JJR
+---
+> more	RBR
+13114c13114
+< yuan	NNS
+---
+> yuan	NN
+13125c13125
+< half	NN
+---
+> half	DT
+13136c13136
+< quoted	VBN
+---
+> quoted	VBD
+13183c13183
+< slice	NN
+---
+> slice	VB
+13204c13204
+< predict	VB
+---
+> predict	VBP
+13230c13230
+< priests	NNP
+---
+> priests	NNS
+13241c13241
+< patriarchate	NNP
+---
+> patriarchate	NN
+13246c13246
+< 15th-century	NNP
+---
+> 15th-century	JJ
+13253c13253
+< crowned	NNP
+---
+> crowned	VBN
+13258c13258
+< 34-foot-tall	NN
+---
+> 34-foot-tall	JJ
+13303c13303
+< such	PDT
+---
+> such	JJ
+13310c13310
+< need	VB
+---
+> need	VBP
+13319c13319
+< all	RB
+---
+> all	DT
+13322c13322
+< enough	NN
+---
+> enough	RB
+13376c13376
+< prototypes	NN
+---
+> prototypes	NNS
+13381c13381
+< Replied	NNP
+---
+> Replied	VBD
+13409c13409
+< My	PRP$
+---
+> My	NNP
+13418c13418
+< waxed	VBN
+---
+> waxed	VBD
+13439c13439
+< underselling	NNP
+---
+> underselling	VBG
+13463c13463
+< hidden	JJ
+---
+> hidden	VBN
+13476c13476
+< turned	VBN
+---
+> turned	VBD
+13490,13491c13490,13491
+< My	PRP$
+< Own	JJ
+---
+> My	NNP
+> Own	NNP
+13563c13563
+< on	RP
+---
+> on	IN
+13575c13575
+< distracting	JJ
+---
+> distracting	VBG
+13611c13611
+< estimated	JJ
+---
+> estimated	VBN
+13635c13635
+< shows	NNS
+---
+> shows	VBZ
+13651c13651
+< wrathful	NN
+---
+> wrathful	JJ
+13684c13684
+< look-alike	NN
+---
+> look-alike	JJ
+13696c13696
+< premium-priced	NNP
+---
+> premium-priced	JJ
+13702c13702
+< admired	VBD
+---
+> admired	VBN
+13730c13730
+< that	IN
+---
+> that	DT
+13756c13756
+< guarded	VBN
+---
+> guarded	VBD
+13759c13759
+< Cube	NN
+---
+> Cube	NNP
+13806,13807c13806,13807
+< all	RB
+< up	RB
+---
+> all	DT
+> up	IN
+13829c13829
+< on	IN
+---
+> on	RP
+13853c13853
+< Today	NNP
+---
+> Today	NN
+13867c13867
+< renewed	JJ
+---
+> renewed	VBN
+13877c13877
+< disputed	JJ
+---
+> disputed	VBN
+13903c13903
+< upheld	VBD
+---
+> upheld	VBN
+13928c13928
+< on	RP
+---
+> on	IN
+13941c13941
+< bargained	VBN
+---
+> bargained	VBD
+13978c13978
+< electronics	NN
+---
+> electronics	NNS
+13982c13982
+< retired	JJ
+---
+> retired	VBD
+14001c14001
+< made	VBD
+---
+> made	VBN
+14007c14007
+< beginning	VBG
+---
+> beginning	NN
+14020c14020
+< about	RB
+---
+> about	IN
+14051c14051
+< bears	NNS
+---
+> bears	VBZ
+14093c14093
+< Walkman	NN
+---
+> Walkman	NNP
+14111c14111
+< brightly	NN
+---
+> brightly	RB
+14135c14135
+< more	JJR
+---
+> more	RBR
+14171c14171
+< plenty	RB
+---
+> plenty	NN
+14191c14191
+< resemble	VB
+---
+> resemble	VBP
+14233c14233
+< To	TO
+---
+> To	NN
+14250c14250
+< fire-engine	RB
+---
+> fire-engine	JJ
+14272c14272
+< prototypes	NN
+---
+> prototypes	NNS
+14274,14275c14274,14275
+< toy	NN
+< fairs	NN
+---
+> toy	JJ
+> fairs	NNS
+14290c14290
+< concerned	VBN
+---
+> concerned	VBD
+14349c14349
+< pursued	VBD
+---
+> pursued	VBN
+14369c14369
+< Recalls	NNP
+---
+> Recalls	VBZ
+14388c14388
+< intended	VBN
+---
+> intended	VBD
+14390c14390
+< on	IN
+---
+> on	RP
+14445c14445
+< strong-arm	CD
+---
+> strong-arm	JJ
+14451c14451
+< carve	VBP
+---
+> carve	VB
+14495c14495
+< no	DT
+---
+> no	RB
+14523c14523
+< My	PRP$
+---
+> My	NNP
+14544c14544
+< long	RB
+---
+> long	JJ
+14564c14564
+< debilitating	VBN
+---
+> debilitating	JJ
+14581c14581
+< more	JJR
+---
+> more	RBR
+14614,14615c14614,14615
+< keep	VB
+< digging	NN
+---
+> keep	VBP
+> digging	VBG
+14627c14627
+< up	RP
+---
+> up	IN
+14629,14630c14629,14630
+< go	VB
+< away	RP
+---
+> go	VBP
+> away	RB
+14643c14643
+< in	RP
+---
+> in	IN
+14646c14646
+< @	SYM
+---
+> @	IN
+14658c14658
+< 34,602	JJ
+---
+> 34,602	CD
+14668c14668
+< common	JJ
+---
+> common	NN
+14701c14701
+< reported	VBD
+---
+> reported	VBN
+14725c14725
+< offers	NNS
+---
+> offers	VBZ
+14785c14785
+< de	NNP
+---
+> de	IN
+14802c14802
+< de	NNP
+---
+> de	FW
+14840c14840
+< 156.82	JJ
+---
+> 156.82	CD
+14885c14885
+< de	NNP
+---
+> de	FW
+14889c14889
+< 9.69	JJ
+---
+> 9.69	CD
+14893c14893
+< Tradition	NN
+---
+> Tradition	NNP
+14896c14896
+< holding	NN
+---
+> holding	VBG
+14919c14919
+< Laboratories	NNP
+---
+> Laboratories	NNPS
+14995,14996c14995,14996
+< all	DT
+< affiliated	JJ
+---
+> all	RB
+> affiliated	VBN
+14998c14998
+< hold	VB
+---
+> hold	VBP
+15000c15000
+< combined	JJ
+---
+> combined	VBN
+15003c15003
+< 1,234,100	JJ
+---
+> 1,234,100	CD
+15015c15015
+< said	VBD
+---
+> said	VBN
+15029c15029
+< Laboratories	NNP
+---
+> Laboratories	NNPS
+15055c15055
+< Sports	NNP
+---
+> Sports	NNPS
+15064c15064
+< 10-store	NNP
+---
+> 10-store	JJ
+15082c15082
+< Sports	NNP
+---
+> Sports	NNPS
+15112c15112
+< Sports	NNP
+---
+> Sports	NNPS
+15142c15142
+< operating	NN
+---
+> operating	VBG
+15160c15160
+< Sports	NNP
+---
+> Sports	NNPS
+15259c15259
+< title-insurance	JJ
+---
+> title-insurance	NN
+15271c15271
+< standstill	JJ
+---
+> standstill	NN
+15285c15285
+< 23.57	JJ
+---
+> 23.57	CD
+15292,15293c15292,15293
+< Statements	NNP
+< made	VBD
+---
+> Statements	NNS
+> made	VBN
+15332c15332
+< connector	NNP
+---
+> connector	NN
+15348c15348
+< Hills	NNP
+---
+> Hills	NNPS
+15379c15379
+< Aspen	JJ
+---
+> Aspen	NNP
+15405c15405
+< proposed	JJ
+---
+> proposed	VBN
+15417c15417
+< consulting	NN
+---
+> consulting	VBG
+15442c15442
+< blend	VB
+---
+> blend	NN
+15467c15467
+< de	NNP
+---
+> de	FW
+15482c15482
+< holding	NN
+---
+> holding	VBG
+15485c15485
+< de	NNP
+---
+> de	FW
+15527c15527
+< de	NNP
+---
+> de	IN
+15534c15534
+< AGF	NNS
+---
+> AGF	NNP
+15583c15583
+< close	RB
+---
+> close	JJ
+15593c15593
+< sure	RB
+---
+> sure	JJ
+15612c15612
+< arise	VBP
+---
+> arise	VB
+15616c15616
+< AGF	JJ
+---
+> AGF	NNP
+15623c15623
+< that	WDT
+---
+> that	IN
+15675c15675
+< trainers	NN
+---
+> trainers	NNS
+15694c15694
+< trainers	NN
+---
+> trainers	NNS
+15761,15762c15761,15762
+< T34C	JJ
+< trainers	NN
+---
+> T34C	CD
+> trainers	NNS
+15788,15789c15788,15789
+< Aermacchi	JJ
+< MB-339	NN
+---
+> Aermacchi	NNP
+> MB-339	NNP
+15791c15791
+< tandem-trainer	NNS
+---
+> tandem-trainer	NN
+15810c15810
+< tandem-seat	NN
+---
+> tandem-seat	JJ
+15823c15823
+< order	NN
+---
+> order	VB
+15855c15855
+< Striking	VBG
+---
+> Striking	JJ
+15860c15860
+< 19-day	NN
+---
+> 19-day	JJ
+15875,15876c15875,15876
+< as	RB
+< pay	VB
+---
+> as	IN
+> pay	NN
+15899c15899
+< disrupted	VBN
+---
+> disrupted	VBD
+15916c15916
+< metalworkers	NNP
+---
+> metalworkers	NNS
+15919c15919
+< out	RP
+---
+> out	IN
+16003c16003
+< Frenchman	NN
+---
+> Frenchman	NNP
+16018c16018
+< job-rating	NN
+---
+> job-rating	JJ
+16056c16056
+< declines	VBZ
+---
+> declines	NNS
+16061c16061
+< vanished	VBN
+---
+> vanished	VBD
+16065,16066c16065,16066
+< Trading	NNP
+< ground	NN
+---
+> Trading	NN
+> ground	VBD
+16093,16094c16093,16094
+< mark	VBP
+< down	RP
+---
+> mark	VB
+> down	IN
+16131c16131
+< offers	VBZ
+---
+> offers	NNS
+16150c16150
+< decided	VBN
+---
+> decided	VBD
+16167c16167
+< over	RB
+---
+> over	IN
+16178c16178
+< stoke	VBN
+---
+> stoke	VB
+16206c16206
+< Simultaneously	NNP
+---
+> Simultaneously	RB
+16231c16231
+< highest-quality	JJ
+---
+> highest-quality	NN
+16243c16243
+< pervaded	NN
+---
+> pervaded	VBD
+16298c16298
+< sold	VBN
+---
+> sold	VBD
+16303c16303
+< ago	RB
+---
+> ago	IN
+16344c16344
+< 7-11	NN
+---
+> 7-11	CD
+16367c16367
+< less	JJR
+---
+> less	RBR
+16442,16443c16442,16443
+< Bloomingdales	NN
+< department-store	NN
+---
+> Bloomingdales	NNP
+> department-store	JJ
+16445c16445
+< up	RP
+---
+> up	IN
+16469c16469
+< on	RP
+---
+> on	IN
+16502c16502
+< playing	NN
+---
+> playing	VBG
+16524c16524
+< got	VBD
+---
+> got	VBN
+16585c16585
+< offering	NN
+---
+> offering	VBG
+16745c16745
+< Markets	NNP
+---
+> Markets	NNPS
+16753c16753
+< Treasury	NN
+---
+> Treasury	NNP
+16756c16756
+< considered	VBN
+---
+> considered	VBD
+16769c16769
+< 7.16	JJ
+---
+> 7.16	CD
+16857c16857
+< marks	NNS
+---
+> marks	VBZ
+16888c16888
+< sustained	JJ
+---
+> sustained	VBN
+16897c16897
+< as	IN
+---
+> as	RB
+16933c16933
+< think	VBP
+---
+> think	VB
+16978,16979c16978,16979
+< creamed	NN
+< that	WDT
+---
+> creamed	VBN
+> that	DT
+16987c16987
+< that	WDT
+---
+> that	DT
+16998c16998
+< that	WDT
+---
+> that	DT
+17009c17009
+< running	VBG
+---
+> running	RB
+17035c17035
+< Treasurys	NNPS
+---
+> Treasurys	NNS
+17045c17045
+< dried	VBD
+---
+> dried	VBN
+17121c17121
+< estimates	NNS
+---
+> estimates	VBZ
+17161c17161
+< on	RP
+---
+> on	IN
+17249c17249
+< plenty	RB
+---
+> plenty	NN
+17259c17259
+< well-structured	NN
+---
+> well-structured	JJ
+17296c17296
+< much	JJ
+---
+> much	RB
+17308c17308
+< fixed-income	JJ
+---
+> fixed-income	NN
+17340,17341c17340,17341
+< one	PRP
+< out	RP
+---
+> one	CD
+> out	IN
+17358c17358
+< best	JJS
+---
+> best	RB
+17377c17377
+< changed	VBD
+---
+> changed	VBN
+17399c17399
+< buying	NN
+---
+> buying	VBG
+17466c17466
+< affected	VBN
+---
+> affected	VBD
+17470c17470
+< that	DT
+---
+> that	IN
+17522c17522
+< down	RP
+---
+> down	IN
+17627,17629c17627,17629
+< Treasury	NNP
+< notes	VBZ
+< widened	VBN
+---
+> Treasury	NN
+> notes	NNS
+> widened	VBD
+17631c17631
+< more	JJR
+---
+> more	RBR
+17642c17642
+< Resorts	NNP
+---
+> Resorts	NNPS
+17713c17713
+< leverage	NN
+---
+> leverage	VB
+17748c17748
+< troubled	JJ
+---
+> troubled	VBN
+17773c17773
+< 1980s	NNS
+---
+> 1980s	CD
+17775c17775
+< about	RB
+---
+> about	IN
+17780c17780
+< reaching	VBG
+---
+> reaching	NN
+17846,17847c17846,17847
+< wrenching	JJ
+< readjustment	NNS
+---
+> wrenching	VBG
+> readjustment	NN
+17855c17855
+< speculative-grade	NNP
+---
+> speculative-grade	JJ
+17895c17895
+< benchmark	JJ
+---
+> benchmark	NN
+17897c17897
+< Treasury	NNP
+---
+> Treasury	NN
+17914c17914
+< up	RB
+---
+> up	IN
+17943c17943
+< Markets	NNP
+---
+> Markets	NNPS
+17969c17969
+< Treasurys	NNPS
+---
+> Treasurys	NNS
+17992c17992
+< accelerated	VBN
+---
+> accelerated	VBD
+17997c17997
+< Bond	NNP
+---
+> Bond	NN
+18000c18000
+< budged	VBN
+---
+> budged	VBD
+18012c18012
+< eying	VB
+---
+> eying	VBG
+18061c18061
+< lagged	VBN
+---
+> lagged	VBD
+18068c18068
+< Mortgage	NNP
+---
+> Mortgage	NN
+18110c18110
+< up	RB
+---
+> up	IN
+18120c18120
+< 9.28	JJ
+---
+> 9.28	CD
+18125c18125
+< average	JJ
+---
+> average	NN
+18134c18134
+< up	RP
+---
+> up	IN
+18145c18145
+< spread	NN
+---
+> spread	VBD
+18147c18147
+< lower-quality	JJR
+---
+> lower-quality	NN
+18152c18152
+< higher-quality	NNP
+---
+> higher-quality	NN
+18181c18181
+< offering	NN
+---
+> offering	VBG
+18222c18222
+< as	RB
+---
+> as	IN
+18323c18323
+< 13th	NN
+---
+> 13th	JJ
+18348c18348
+< financing	NN
+---
+> financing	VBG
+18377c18377
+< as	IN
+---
+> as	RB
+18398c18398
+< observation	NNP
+---
+> observation	NN
+18411c18411
+< ticker	NNP
+---
+> ticker	NN
+18443c18443
+< impacted	JJ
+---
+> impacted	VBN
+18451c18451
+< all	RB
+---
+> all	PDT
+18488c18488
+< House	NNP
+---
+> House	NN
+18522c18522
+< cut	VBD
+---
+> cut	NN
+18542c18542
+< out	RP
+---
+> out	IN
+18561c18561
+< one-by-one	NN
+---
+> one-by-one	JJ
+18576c18576
+< doubts	NNS
+---
+> doubts	VBZ
+18596c18596
+< fogged	VB
+---
+> fogged	JJ
+18601c18601
+< smokescreens	NN
+---
+> smokescreens	NNS
+18603c18603
+< promises	VBZ
+---
+> promises	NNS
+18704c18704
+< own	JJ
+---
+> own	VBP
+18713c18713
+< Worse	RBR
+---
+> Worse	NNP
+18736c18736
+< Works	NNP
+---
+> Works	NNPS
+18753c18753
+< so	RB
+---
+> so	IN
+18764c18764
+< American	NNP
+---
+> American	JJ
+18777c18777
+< up	RB
+---
+> up	IN
+18783c18783
+< review	NN
+---
+> review	VB
+18794c18794
+< voting	NN
+---
+> voting	VBG
+18825c18825
+< Congratulations	NNP
+---
+> Congratulations	UH
+18839c18839
+< remember	VBP
+---
+> remember	VB
+18853c18853
+< out	RP
+---
+> out	IN
+18855c18855
+< existance	NNP
+---
+> existance	NN
+18886c18886
+< thankfully	NNP
+---
+> thankfully	RB
+18893c18893
+< 1987-style	NN
+---
+> 1987-style	JJ
+18911c18911
+< binges	NN
+---
+> binges	NNS
+18932c18932
+< lags	VBZ
+---
+> lags	NNS
+18944c18944
+< needed	JJ
+---
+> needed	VBN
+18973c18973
+< prove	VB
+---
+> prove	VBP
+18990c18990
+< underpriced	JJ
+---
+> underpriced	VBN
+19030c19030
+< much	RB
+---
+> much	JJ
+19040c19040
+< third-quarter	JJ
+---
+> third-quarter	NN
+19097c19097
+< troubled	JJ
+---
+> troubled	VBN
+19105c19105
+< top	JJ
+---
+> top	NN
+19112c19112
+< foreign-loan	CD
+---
+> foreign-loan	JJ
+19131c19131
+< troubled	JJ
+---
+> troubled	VBN
+19166c19166
+< need	VBP
+---
+> need	VB
+19183c19183
+< pretax	JJ
+---
+> pretax	NN
+19187c19187
+< 60.4	JJ
+---
+> 60.4	CD
+19197c19197
+< Advisors	NNP
+---
+> Advisors	NNPS
+19201c19201
+< Combined	JJ
+---
+> Combined	VBN
+19256c19256
+< ago	RB
+---
+> ago	IN
+19295c19295
+< restored	VBN
+---
+> restored	VBD
+19306c19306
+< pseudosocialism	NNS
+---
+> pseudosocialism	NN
+19313c19313
+< conservative-communist	NNP
+---
+> conservative-communist	JJ
+19335c19335
+< fallen	JJ
+---
+> fallen	VBN
+19339,19340c19339,19340
+< like	IN
+< flies	VBZ
+---
+> like	JJ
+> flies	NNS
+19355c19355
+< Greeks	NNP
+---
+> Greeks	NNPS
+19369c19369
+< interim	JJ
+---
+> interim	NN
+19375,19376c19375,19376
+< post-electoral	NNP
+< hagglings	NNP
+---
+> post-electoral	JJ
+> hagglings	NNS
+19390c19390
+< miscegenation	NNS
+---
+> miscegenation	NN
+19422c19422
+< quaint	NN
+---
+> quaint	JJ
+19432c19432
+< pro-Soviet	NNP
+---
+> pro-Soviet	JJ
+19443,19444c19443,19444
+< Hellenic	NN
+< Left	VBD
+---
+> Hellenic	NNP
+> Left	NNP
+19448c19448
+< unifying	JJ
+---
+> unifying	VBG
+19455c19455
+< plain	RB
+---
+> plain	JJ
+19471c19471
+< ostensible	NN
+---
+> ostensible	JJ
+19480c19480
+< purportedly	NN
+---
+> purportedly	RB
+19517,19518c19517,19518
+< ex	FW
+< parte	JJ
+---
+> ex	JJ
+> parte	NN
+19525c19525
+< transmogrified	VBN
+---
+> transmogrified	VBD
+19528c19528
+< promised	JJ
+---
+> promised	VBN
+19547,19548c19547,19548
+< long-bubbling	NN
+< bank-looting	NN
+---
+> long-bubbling	JJ
+> bank-looting	JJ
+19555c19555
+< accuser	NNP
+---
+> accuser	NN
+19568,19569c19568,19569
+< self-confessed	NNP
+< embezzler	NNP
+---
+> self-confessed	JJ
+> embezzler	NN
+19572c19572
+< residing	JJ
+---
+> residing	VBG
+19625c19625
+< less	JJR
+---
+> less	RBR
+19627c19627
+< forthright	NN
+---
+> forthright	JJ
+19639c19639
+< Communist	JJ
+---
+> Communist	NNP
+19641c19641
+< herald	VB
+---
+> herald	VBP
+19647c19647
+< PASOK	JJ
+---
+> PASOK	NNP
+19663c19663
+< stolen	JJ
+---
+> stolen	VBN
+19672c19672
+< 734,000	JJ
+---
+> 734,000	CD
+19677c19677
+< contended	VBD
+---
+> contended	VBN
+19718c19718
+< pinched	NNP
+---
+> pinched	VBD
+19733c19733
+< PASOK	JJ
+---
+> PASOK	NNP
+19748c19748
+< eluding	JJ
+---
+> eluding	VBG
+19757c19757
+< drachmas	NNP
+---
+> drachmas	NN
+19763c19763
+< Democracy	NN
+---
+> Democracy	NNP
+19775c19775
+< circumstantial	CD
+---
+> circumstantial	JJ
+19787c19787
+< clinching	JJ
+---
+> clinching	VBG
+19795c19795
+< Greeks	NNP
+---
+> Greeks	NNPS
+19805c19805
+< EYP	NN
+---
+> EYP	NNP
+19808c19808
+< monitored	VBN
+---
+> monitored	VBD
+19823c19823
+< PASOK	JJ
+---
+> PASOK	NNP
+19840c19840
+< ordered	VBN
+---
+> ordered	VBD
+19863c19863
+< focused	VBN
+---
+> focused	VBD
+19877,19878c19877,19878
+< that	DT
+< PASOK	JJ
+---
+> that	IN
+> PASOK	NNP
+19885c19885
+< OKing	VBG
+---
+> OKing	NNP
+19889,19890c19889,19890
+< F-16	CD
+< Fighting	NN
+---
+> F-16	NNP
+> Fighting	NNP
+19901c19901
+< U.S.based	NNP
+---
+> U.S.based	JJ
+19903c19903
+< Dynamics	NNPS
+---
+> Dynamics	NNP
+19919c19919
+< Dynamics	NNPS
+---
+> Dynamics	NNP
+19929c19929
+< future	JJ
+---
+> future	NN
+19947c19947
+< rendered	VBD
+---
+> rendered	VBN
+19950c19950
+< So	RB
+---
+> So	IN
+19958,19959c19958,19959
+< communist	JJ
+< chums	NN
+---
+> communist	NN
+> chums	NNS
+19962,19963c19962,19963
+< unwittingly	NN
+< served	VBD
+---
+> unwittingly	RB
+> served	VBN
+19965c19965
+< Papandreou	VBD
+---
+> Papandreou	NNP
+19971c19971
+< platter	NNP
+---
+> platter	JJ
+20004c20004
+< jinks	NN
+---
+> jinks	NNS
+20009c20009
+< PASOK	RB
+---
+> PASOK	NNP
+20021c20021
+< First	NNP
+---
+> First	RB
+20050c20050
+< ousting	NNP
+---
+> ousting	VBG
+20053c20053
+< thwarting	VB
+---
+> thwarting	VBG
+20070c20070
+< left	NN
+---
+> left	JJ
+20084c20084
+< PASOK	JJ
+---
+> PASOK	NNP
+20088c20088
+< Next	NNP
+---
+> Next	JJ
+20112c20112
+< PASOK	VBG
+---
+> PASOK	NNP
+20114c20114
+< well-respected	NNP
+---
+> well-respected	JJ
+20153,20154c20153,20154
+< PASOK	JJ
+< heads	NNS
+---
+> PASOK	NNP
+> heads	VBZ
+20161c20161
+< diminished	JJ
+---
+> diminished	VBN
+20168c20168
+< seals	NN
+---
+> seals	NNS
+20176c20176
+< harshest	JJ
+---
+> harshest	JJS
+20180c20180
+< Crucial	NNP
+---
+> Crucial	JJ
+20228,20230c20228,20230
+< heightened	JJ
+< Common	JJ
+< Market	NN
+---
+> heightened	VBN
+> Common	NNP
+> Market	NNP
+20236c20236
+< bilateral	NN
+---
+> bilateral	JJ
+20241c20241
+< need	NN
+---
+> need	VBP
+20244c20244
+< as	RB
+---
+> as	IN
+20260c20260
+< lapses	NNS
+---
+> lapses	VBZ
+20298c20298
+< terrorist	JJ
+---
+> terrorist	NN
+20318c20318
+< Greek	JJ
+---
+> Greek	NNP
+20328c20328
+< Rashid	JJ
+---
+> Rashid	NNP
+20346c20346
+< Greeks	NNS
+---
+> Greeks	NNPS
+20366c20366
+< in	IN
+---
+> in	RB
+20377,20378c20377,20378
+< That	DT
+< PASOK	NN
+---
+> That	IN
+> PASOK	NNP
+20407c20407
+< wild-eyed	NN
+---
+> wild-eyed	JJ
+20411c20411
+< Yet	CC
+---
+> Yet	RB
+20416c20416
+< lash-up	NN
+---
+> lash-up	JJ
+20419c20419
+< all	DT
+---
+> all	RB
+20437c20437
+< conservative-led	NN
+---
+> conservative-led	JJ
+20448c20448
+< early	RB
+---
+> early	JJ
+20452c20452
+< frustrating	JJ
+---
+> frustrating	VBG
+20473c20473
+< glaringly	VB
+---
+> glaringly	RB
+20478c20478
+< linked	VBD
+---
+> linked	VBN
+20492c20492
+< either	DT
+---
+> either	CC
+20494c20494
+< clarity	NNS
+---
+> clarity	NN
+20497c20497
+< rectification	JJ
+---
+> rectification	NN
+20531c20531
+< slingers	NN
+---
+> slingers	NNS
+20534c20534
+< raked	JJ
+---
+> raked	VBD
+20544c20544
+< as	RB
+---
+> as	IN
+20574c20574
+< MOVED	NN
+---
+> MOVED	VBD
+20626c20626
+< mapped	VB
+---
+> mapped	VBN
+20676c20676
+< 2569.26	NN
+---
+> 2569.26	CD
+20689c20689
+< Treasury	NNP
+---
+> Treasury	NN
+20710c20710
+< around	RP
+---
+> around	IN
+20723c20723
+< Prospects	NNP
+---
+> Prospects	NNS
+20769c20769
+< management-pilot	NNP
+---
+> management-pilot	NN
+20802c20802
+< worsening	VBG
+---
+> worsening	NN
+20835c20835
+< hope	VBP
+---
+> hope	VB
+20858c20858
+< House-Senate	JJ
+---
+> House-Senate	NNP
+20870c20870
+< up	RB
+---
+> up	IN
+20873,20874c20873,20874
+< North	JJ
+< American	JJ
+---
+> North	NNP
+> American	NNP
+20881c20881
+< mid-1990s	NNS
+---
+> mid-1990s	CD
+20912,20913c20912,20913
+< dragged	VBN
+< down	RP
+---
+> dragged	VBD
+> down	IN
+20927c20927
+< entangled	JJ
+---
+> entangled	VBN
+20974c20974
+< shopping-center	NNP
+---
+> shopping-center	NN
+21014c21014
+< out	RP
+---
+> out	IN
+21058c21058
+< guided-missile	NN
+---
+> guided-missile	JJ
+21064c21064
+< steel-import	NNP
+---
+> steel-import	JJ
+21093c21093
+< ailing	JJ
+---
+> ailing	VBG
+21113c21113
+< Markets	NNP
+---
+> Markets	NNS
+21119c21119
+< 251,170,000	NN
+---
+> 251,170,000	CD
+21125,21126c21125,21126
+< industrials	VBZ
+< 2569.26	NNP
+---
+> industrials	NNS
+> 2569.26	CD
+21128c21128
+< off	RB
+---
+> off	IN
+21132c21132
+< 1406.29	NN
+---
+> 1406.29	CD
+21135c21135
+< 78.06	NNP
+---
+> 78.06	CD
+21138c21138
+< 211.96	NN
+---
+> 211.96	CD
+21141c21141
+< 7.29	NN
+---
+> 7.29	CD
+21151c21151
+< 3421.29	NN
+---
+> 3421.29	CD
+21161c21161
+< 129.87	NN
+---
+> 129.87	CD
+21163c21163
+< up	RB
+---
+> up	IN
+21168c21168
+< 129.25	NN
+---
+> 129.25	CD
+21170c21170
+< up	RB
+---
+> up	IN
+21174c21174
+< Dollar	NNP
+---
+> Dollar	NN
+21177c21177
+< yen	NNS
+---
+> yen	NN
+21179c21179
+< off	RB
+---
+> off	IN
+21182c21182
+< 1.8740	JJ
+---
+> 1.8740	CD
+21186c21186
+< 0.0343	NN
+---
+> 0.0343	CD
+21216c21216
+< concurrently	NN
+---
+> concurrently	RB
+21243c21243
+< that	DT
+---
+> that	IN
+21250c21250
+< expected	JJ
+---
+> expected	VBN
+21357c21357
+< 63.50	JJ
+---
+> 63.50	CD
+21392c21392
+< 17.37	JJ
+---
+> 17.37	CD
+21431c21431
+< counterbalanced	VB
+---
+> counterbalanced	VBN
+21445c21445
+< Late	RB
+---
+> Late	JJ
+21479,21480c21479,21480
+< that	IN
+< pertains	NN
+---
+> that	WDT
+> pertains	VBZ
+21489c21489
+< Twiggy	NN
+---
+> Twiggy	NNP
+21628c21628
+< Shareholders	NNP
+---
+> Shareholders	NNS
+21645c21645
+< Lerach	JJ
+---
+> Lerach	NNP
+21648c21648
+< petitioned	NN
+---
+> petitioned	VBD
+21684c21684
+< reported	VBD
+---
+> reported	VBN
+21700c21700
+< ORDERED	NNP
+---
+> ORDERED	VBN
+21710c21710
+< defunct	JJ
+---
+> defunct	VB
+21727c21727
+< 's	VBZ
+---
+> 's	POS
+21741c21741
+< agreed	VBN
+---
+> agreed	VBD
+21744c21744
+< USFL	NN
+---
+> USFL	NNP
+21750c21750
+< monopolized	VBN
+---
+> monopolized	VBD
+21761c21761
+< USFL	NN
+---
+> USFL	NNP
+21768c21768
+< trebled	NN
+---
+> trebled	VBD
+21783c21783
+< Appeals	NNP
+---
+> Appeals	NNPS
+21831c21831
+< lead	JJ
+---
+> lead	NN
+21864c21864
+< USFL	NN
+---
+> USFL	NNP
+21881c21881
+< 260,000	JJ
+---
+> 260,000	CD
+21895c21895
+< held	VBN
+---
+> held	VBD
+21911c21911
+< USFL	NN
+---
+> USFL	NNP
+21914c21914
+< reimbursed	VBD
+---
+> reimbursed	VBN
+21917c21917
+< Antitrust	NNP
+---
+> Antitrust	JJ
+21921c21921
+< injured	JJ
+---
+> injured	VBN
+21925c21925
+< reimbursed	VBD
+---
+> reimbursed	VBN
+21990c21990
+< USFL	NN
+---
+> USFL	NNP
+22011c22011
+< USFL	NN
+---
+> USFL	NNP
+22015c22015
+< prevailing	JJ
+---
+> prevailing	VBG
+22030c22030
+< Jaworski	NN
+---
+> Jaworski	NNP
+22095c22095
+< together	RP
+---
+> together	RB
+22103c22103
+< fair-trade-related	NN
+---
+> fair-trade-related	JJ
+22106c22106
+< conduct	NN
+---
+> conduct	VB
+22119c22119
+< 585-lawyer	NNP
+---
+> 585-lawyer	NN
+22122c22122
+< Jaworski	NN
+---
+> Jaworski	NNP
+22152c22152
+< natural-gas	JJ
+---
+> natural-gas	NN
+22172c22172
+< out	RP
+---
+> out	IN
+22174c22174
+< 80-lawyer	NNP
+---
+> 80-lawyer	NN
+22208,22210c22208,22210
+< WHAT	WDT
+< MAY	NNP
+< SIGNAL	VBD
+---
+> WHAT	WP
+> MAY	MD
+> SIGNAL	VB
+22224c22224
+< 1\/2-week	NN
+---
+> 1\/2-week	JJ
+22286c22286
+< contended	VBN
+---
+> contended	VBD
+22338c22338
+< fireproofing	NN
+---
+> fireproofing	VBG
+22342,22344c22342,22344
+< COUNSEL	NNP
+< JOINS	NNP
+< FIRM	NNP
+---
+> COUNSEL	NN
+> JOINS	VBZ
+> FIRM	NN
+22352c22352
+< 500-lawyer	NNP
+---
+> 500-lawyer	NN
+22355c22355
+< Foerster	NNS
+---
+> Foerster	NNP
+22375c22375
+< mass-media	NN
+---
+> mass-media	NNS
+22397c22397
+< Communications	NNPS
+---
+> Communications	NNP
+22432c22432
+< Airlines	NNPS
+---
+> Airlines	NNP
+22434c22434
+< top	JJ
+---
+> top	NN
+22501c22501
+< 200-lawyer	NNP
+---
+> 200-lawyer	NN
+22542c22542
+< 31.	NNP
+---
+> 31.	CD
+22548c22548
+< holiday-season	NN
+---
+> holiday-season	JJ
+22578c22578
+< Plus	CC
+---
+> Plus	NNP
+22599c22599
+< cpu	NNP
+---
+> cpu	NN
+22685c22685
+< million-mark	NNS
+---
+> million-mark	JJ
+22695c22695
+< electronics	NN
+---
+> electronics	NNS
+22710c22710
+< 74.9	JJ
+---
+> 74.9	CD
+22722c22722
+< Components	NNP
+---
+> Components	NNPS
+22725c22725
+< 25.1	JJ
+---
+> 25.1	CD
+22751c22751
+< Components	NNP
+---
+> Components	NNPS
+22754c22754
+< H	NNP
+---
+> H	NN
+22761c22761
+< headquarters	NN
+---
+> headquarters	NNS
+22787c22787
+< following	JJ
+---
+> following	VBG
+22796c22796
+< voting	NN
+---
+> voting	VBG
+22894c22894
+< editorial	JJ
+---
+> editorial	NN
+22901c22901
+< Frankly	RB
+---
+> Frankly	NNP
+22936c22936
+< weekly	JJ
+---
+> weekly	RB
+22950c22950
+< Time	NN
+---
+> Time	NNP
+22963c22963
+< Newsweek	NN
+---
+> Newsweek	NNP
+22996c22996
+< executive	JJ
+---
+> executive	NN
+23028c23028
+< editorial	JJ
+---
+> editorial	NN
+23041c23041
+< service-oriented	NNP
+---
+> service-oriented	JJ
+23117c23117
+< profit-sharing	NN
+---
+> profit-sharing	NNS
+23122c23122
+< 839	VB
+---
+> 839	CD
+23133c23133
+< half	NN
+---
+> half	DT
+23146c23146
+< French	JJ
+---
+> French	NNP
+23154c23154
+< that	DT
+---
+> that	IN
+23181c23181
+< that	DT
+---
+> that	IN
+23187c23187
+< half	NN
+---
+> half	DT
+23189c23189
+< 8.734	NNP
+---
+> 8.734	CD
+23198c23198
+< 9.934	NNP
+---
+> 9.934	CD
+23228c23228
+< anticipated	JJ
+---
+> anticipated	VBN
+23237c23237
+< half	NN
+---
+> half	DT
+23259c23259
+< 18.819	NNP
+---
+> 18.819	CD
+23275c23275
+< half	NN
+---
+> half	DT
+23282c23282
+< made	VBD
+---
+> made	VBN
+23284c23284
+< detailed	JJ
+---
+> detailed	VBN
+23336c23336
+< chief	JJ
+---
+> chief	NN
+23348c23348
+< 780,000	JJ
+---
+> 780,000	CD
+23395c23395
+< discontinued	JJ
+---
+> discontinued	VBN
+23500c23500
+< Keystone	NNP
+---
+> Keystone	NN
+23535c23535
+< 3.15	JJ
+---
+> 3.15	CD
+23555c23555
+< discontinued	JJ
+---
+> discontinued	VBN
+23575c23575
+< up	RB
+---
+> up	IN
+23604c23604
+< milion	CD
+---
+> milion	NN
+23655c23655
+< discontinued	JJ
+---
+> discontinued	VBN
+23670c23670
+< 230.5	JJ
+---
+> 230.5	CD
+23673c23673
+< up	RB
+---
+> up	IN
+23679c23679
+< 190.4	JJ
+---
+> 190.4	CD
+23697c23697
+< 585,000	JJ
+---
+> 585,000	CD
+23705c23705
+< up	RB
+---
+> up	IN
+23707c23707
+< 413,000	JJ
+---
+> 413,000	CD
+23736c23736
+< Keystone	JJ
+---
+> Keystone	NNP
+23771c23771
+< estimated	JJ
+---
+> estimated	VBN
+23805,23806c23805,23806
+< chief	JJ
+< operating	NN
+---
+> chief	NN
+> operating	VBG
+23816c23816
+< force	VBP
+---
+> force	NN
+23818c23818
+< about	RB
+---
+> about	IN
+23842c23842
+< coasts	NNP
+---
+> coasts	NNS
+23850c23850
+< ago	RB
+---
+> ago	IN
+23855c23855
+< order-taker	NNP
+---
+> order-taker	NN
+23866c23866
+< marketing	NN
+---
+> marketing	VBG
+23870c23870
+< out	RP
+---
+> out	IN
+23875c23875
+< wholesalers	NNP
+---
+> wholesalers	NNS
+23889c23889
+< 100-year-old	NN
+---
+> 100-year-old	JJ
+23895c23895
+< premium-priced	NN
+---
+> premium-priced	JJ
+23902c23902
+< red-tipped	NN
+---
+> red-tipped	JJ
+23938c23938
+< barbed	JJ
+---
+> barbed	VBN
+23955c23955
+< uranium-recovery	NNP
+---
+> uranium-recovery	JJ
+23986c23986
+< elaborate	VB
+---
+> elaborate	JJ
+23998c23998
+< depressed	JJ
+---
+> depressed	VBN
+24017c24017
+< reactivated	VBD
+---
+> reactivated	VBN
+24025c24025
+< More	RBR
+---
+> More	JJR
+24030c24030
+< uranium	VBG
+---
+> uranium	NN
+24048c24048
+< uranium-recovery	NN
+---
+> uranium-recovery	JJ
+24079c24079
+< sales	NNS
+---
+> sales	JJ
+24115c24115
+< uranium-recovery	NN
+---
+> uranium-recovery	JJ
+24133c24133
+< back	RP
+---
+> back	RB
+24143c24143
+< Instruments	NNP
+---
+> Instruments	NNPS
+24156,24157c24156,24157
+< Corporate	JJ
+< Elite	NN
+---
+> Corporate	NNP
+> Elite	NNP
+24169,24170c24169,24170
+< synthesizer	JJ
+< laminated	NN
+---
+> synthesizer	NN
+> laminated	VBN
+24197c24197
+< human-sounding	CD
+---
+> human-sounding	JJ
+24215c24215
+< 15-second	NN
+---
+> 15-second	JJ
+24231c24231
+< per-ad	NN
+---
+> per-ad	JJ
+24235c24235
+< Instruments	NNP
+---
+> Instruments	NNPS
+24242c24242
+< that	WDT
+---
+> that	DT
+24246c24246
+< in	IN
+---
+> in	RP
+24254c24254
+< Instruments	NNP
+---
+> Instruments	NNPS
+24271c24271
+< tone-generating	NN
+---
+> tone-generating	JJ
+24281c24281
+< synthesizer	NNS
+---
+> synthesizer	NN
+24297c24297
+< one	PRP
+---
+> one	NN
+24320c24320
+< around	RB
+---
+> around	IN
+24333c24333
+< as	IN
+---
+> as	RB
+24457c24457
+< Chapter	NNP
+---
+> Chapter	NN
+24537c24537
+< interested	VBN
+---
+> interested	JJ
+24555c24555
+< loan-loss	JJ
+---
+> loan-loss	NN
+24564c24564
+< developed	JJ
+---
+> developed	VBN
+24597c24597
+< chief	JJ
+---
+> chief	NN
+24617c24617
+< aside	RP
+---
+> aside	RB
+24626c24626
+< non-Mexican	NNP
+---
+> non-Mexican	JJ
+24635c24635
+< continuing	JJ
+---
+> continuing	VBG
+24664c24664
+< existing	JJ
+---
+> existing	VBG
+24693c24693
+< about	RB
+---
+> about	IN
+24714c24714
+< 577	JJ
+---
+> 577	CD
+24733c24733
+< 604	JJ
+---
+> 604	CD
+24784c24784
+< zero-coupon	JJ
+---
+> zero-coupon	NN
+24817c24817
+< ago	RB
+---
+> ago	IN
+24862c24862
+< carnage	JJ
+---
+> carnage	NN
+24873c24873
+< mega-mergers	NNP
+---
+> mega-mergers	NNS
+24894c24894
+< Suitors	NNP
+---
+> Suitors	NNS
+24897c24897
+< on	RB
+---
+> on	IN
+24903c24903
+< expansion-minded	NN
+---
+> expansion-minded	JJ
+24910c24910
+< debt-happy	NN
+---
+> debt-happy	JJ
+24944c24944
+< that	IN
+---
+> that	WDT
+24958c24958
+< put	VBD
+---
+> put	VBP
+24960c24960
+< up	RP
+---
+> up	IN
+24977c24977
+< ripple	NN
+---
+> ripple	VBP
+25001c25001
+< money-management	JJ
+---
+> money-management	NN
+25003,25004c25003,25004
+< Gaines	NN
+< Berland	NN
+---
+> Gaines	NNP
+> Berland	NNP
+25070c25070
+< deteriorating	JJ
+---
+> deteriorating	VBG
+25110c25110
+< Trading	NNP
+---
+> Trading	NN
+25237c25237
+< Investment	NNP
+---
+> Investment	NN
+25325c25325
+< traded	VBN
+---
+> traded	VBD
+25331c25331
+< Late	NNP
+---
+> Late	JJ
+25354,25355c25354,25355
+< as	IN
+< low	JJ
+---
+> as	RB
+> low	RB
+25382c25382
+< further	RBR
+---
+> further	RB
+25397,25398c25397,25398
+< that	DT
+< commerical	NN
+---
+> that	IN
+> commerical	JJ
+25427c25427
+< Mexican	JJ
+---
+> Mexican	NNP
+25456c25456
+< 20-a-share	CD
+---
+> 20-a-share	JJ
+25462c25462
+< ago	RB
+---
+> ago	IN
+25550c25550
+< existing	JJ
+---
+> existing	VBG
+25561c25561
+< that	WDT
+---
+> that	IN
+25614c25614
+< back	RP
+---
+> back	RB
+25647c25647
+< Communications	NNPS
+---
+> Communications	NNP
+25678c25678
+< tender	NN
+---
+> tender	JJ
+25689c25689
+< notwithstanding	RB
+---
+> notwithstanding	IN
+25724c25724
+< 20-a-share	CD
+---
+> 20-a-share	JJ
+25788c25788
+< well-financed	NN
+---
+> well-financed	JJ
+25804c25804
+< Investment	NNP
+---
+> Investment	NN
+25813c25813
+< lining	NN
+---
+> lining	VBG
+25851c25851
+< look	VBP
+---
+> look	VB
+25855c25855
+< 200-point	NN
+---
+> 200-point	JJ
+25898c25898
+< Investment	NNP
+---
+> Investment	NN
+25901c25901
+< most	RBS
+---
+> most	JJS
+25929c25929
+< LBO	NN
+---
+> LBO	NNP
+25937c25937
+< outbid	VBP
+---
+> outbid	VB
+25975c25975
+< junkbond-financed	NN
+---
+> junkbond-financed	JJ
+26001,26002c26001,26002
+< socalled	JJ
+< whisper	JJ
+---
+> socalled	VBN
+> whisper	NN
+26008c26008
+< rumored	JJ
+---
+> rumored	VBN
+26013c26013
+< Pictures	NNP
+---
+> Pictures	NNPS
+26023c26023
+< 27-a-share	CD
+---
+> 27-a-share	JJ
+26052c26052
+< restructuring	NN
+---
+> restructuring	VBG
+26064c26064
+< down	RB
+---
+> down	IN
+26070c26070
+< down	RB
+---
+> down	IN
+26077c26077
+< down	RB
+---
+> down	IN
+26084c26084
+< off	RB
+---
+> off	IN
+26090c26090
+< down	RB
+---
+> down	IN
+26098c26098
+< down	RB
+---
+> down	IN
+26105c26105
+< down	RB
+---
+> down	IN
+26119,26120c26119,26120
+< less	RBR
+< sanguine	JJ
+---
+> less	JJR
+> sanguine	NN
+26134c26134
+< restructuring	NN
+---
+> restructuring	VBG
+26136,26137c26136,26137
+< fall	NN
+< through	IN
+---
+> fall	VB
+> through	RP
+26207c26207
+< delayed	VBN
+---
+> delayed	VBD
+26225c26225
+< restructuring	NN
+---
+> restructuring	VBG
+26239c26239
+< said	VBD
+---
+> said	VBN
+26246c26246
+< restructuring	NN
+---
+> restructuring	VBG
+26317c26317
+< down	RB
+---
+> down	IN
+26329c26329
+< 68.8	NNP
+---
+> 68.8	CD
+26342c26342
+< oversold	VBN
+---
+> oversold	VB
+26357c26357
+< worst-hit	NN
+---
+> worst-hit	JJ
+26368c26368
+< down	RB
+---
+> down	IN
+26561c26561
+< bolstered	VBN
+---
+> bolstered	VBD
+26582c26582
+< junkbond	JJ
+---
+> junkbond	NN
+26600c26600
+< over	RP
+---
+> over	IN
+26635c26635
+< waking	VB
+---
+> waking	VBG
+26665c26665
+< firm	NN
+---
+> firm	JJ
+26709c26709
+< more	JJR
+---
+> more	RBR
+26730c26730
+< chosen	JJ
+---
+> chosen	VBN
+26744c26744
+< real-estate	JJ
+---
+> real-estate	NN
+26746c26746
+< overreact	VB
+---
+> overreact	VBP
+26754c26754
+< take	VB
+---
+> take	VBP
+26765c26765
+< catches	NN
+---
+> catches	VBZ
+26786c26786
+< building	VBG
+---
+> building	NN
+26794c26794
+< further	RBR
+---
+> further	RB
+26809c26809
+< 1960s	NNS
+---
+> 1960s	CD
+26815c26815
+< mid-1970s	NNS
+---
+> mid-1970s	CD
+26833c26833
+< rebounds	NNS
+---
+> rebounds	VBZ
+26901c26901
+< 1980s	NNS
+---
+> 1980s	CD
+26917c26917
+< Area	NNP
+---
+> Area	NN
+26931c26931
+< down	RB
+---
+> down	IN
+26944c26944
+< more	RBR
+---
+> more	JJR
+26960c26960
+< off	RP
+---
+> off	IN
+26978c26978
+< mid-1980s	NNS
+---
+> mid-1980s	CD
+26985,26986c26985,26986
+< Building	NNP
+< permits	VBZ
+---
+> Building	NN
+> permits	NNS
+27024,27025c27024,27025
+< no	DT
+< further	JJ
+---
+> no	RB
+> further	RB
+27036c27036
+< depressed	JJ
+---
+> depressed	VBN
+27038c27038
+< overbuilt	JJ
+---
+> overbuilt	NN
+27041c27041
+< undervalued	VBN
+---
+> undervalued	VBD
+27055c27055
+< touted	VBD
+---
+> touted	VBN
+27066c27066
+< counter-cyclical	NN
+---
+> counter-cyclical	JJ
+27086c27086
+< drop	NN
+---
+> drop	VB
+27101c27101
+< mid-1980s	NNS
+---
+> mid-1980s	CD
+27105,27106c27105,27106
+< down	RP
+< as	IN
+---
+> down	IN
+> as	RB
+27119c27119
+< off	RP
+---
+> off	IN
+27134c27134
+< Office	NNP
+---
+> Office	NN
+27179,27180c27179,27180
+< see-through	NNP
+< skyline	NNP
+---
+> see-through	JJ
+> skyline	NN
+27209c27209
+< firm	NN
+---
+> firm	JJ
+27235c27235
+< mid-1980s	NNS
+---
+> mid-1980s	CD
+27249c27249
+< Today	NNP
+---
+> Today	NN
+27264c27264
+< More	RBR
+---
+> More	JJR
+27266c27266
+< 42,000	JJ
+---
+> 42,000	CD
+27401c27401
+< Employment	NNP
+---
+> Employment	NN
+27468,27469c27468,27469
+< self-fulfilling	NNP
+< prophecy	NNP
+---
+> self-fulfilling	JJ
+> prophecy	NN
+27478c27478
+< all	RB
+---
+> all	DT
+27486c27486
+< Housing	NNP
+---
+> Housing	NN
+27490,27491c27490,27491
+< down	RB
+< more	JJR
+---
+> down	IN
+> more	RBR
+27516,27517c27516,27517
+< public	NN
+< works	VBZ
+---
+> public	JJ
+> works	NNS
+27527c27527
+< planned	JJ
+---
+> planned	VBD
+27566,27567c27566,27567
+< as	IN
+< early	JJ
+---
+> as	RB
+> early	RB
+27581c27581
+< resulting	JJ
+---
+> resulting	VBG
+27594c27594
+< What	WP
+---
+> What	WDT
+27598,27599c27598,27599
+< one	PRP
+< follow	VBP
+---
+> one	NN
+> follow	VB
+27609c27609
+< as	IN
+---
+> as	RB
+27632c27632
+< mid-1980s	NNS
+---
+> mid-1980s	CD
+27652c27652
+< Vacancy	JJ
+---
+> Vacancy	NN
+27670c27670
+< mid-20	VB
+---
+> mid-20	CD
+27686,27687c27686,27687
+< flattening	NN
+< out	RP
+---
+> flattening	VBG
+> out	IN
+27694c27694
+< cold	JJ
+---
+> cold	NN
+27719c27719
+< catches	NN
+---
+> catches	VBZ
+27734c27734
+< in	IN
+---
+> in	RP
+27775c27775
+< Hills	NNP
+---
+> Hills	NNPS
+27787,27788c27787,27788
+< third-quarter	JJ
+< net	JJ
+---
+> third-quarter	NN
+> net	NN
+27809c27809
+< ago	RB
+---
+> ago	IN
+27835c27835
+< third-quarter	JJ
+---
+> third-quarter	NN
+27853c27853
+< powerboat	JJ
+---
+> powerboat	NN
+27855,27856c27855,27856
+< reduced	VBN
+< sales	NNS
+---
+> reduced	VBD
+> sales	JJ
+27861c27861
+< marine-related	CD
+---
+> marine-related	JJ
+27896c27896
+< fourth-quarter	JJ
+---
+> fourth-quarter	NN
+27970c27970
+< anti-racketeering	NN
+---
+> anti-racketeering	JJ
+27986c27986
+< Savings	NNPS
+---
+> Savings	NNP
+28003,28004c28003,28004
+< Common	JJ
+< Cause	NN
+---
+> Common	NNP
+> Cause	NNP
+28058c28058
+< based	VBN
+---
+> based	VBD
+28110,28111c28110,28111
+< most	JJS
+< forceful	NN
+---
+> most	RBS
+> forceful	JJ
+28118c28118
+< hope	VBP
+---
+> hope	VB
+28174c28174
+< insured	JJ
+---
+> insured	VBN
+28180c28180
+< ticking	JJ
+---
+> ticking	VBG
+28321c28321
+< filed	VBN
+---
+> filed	VBD
+28364c28364
+< much	RB
+---
+> much	JJ
+28377c28377
+< public	NN
+---
+> public	JJ
+28434c28434
+< about	RB
+---
+> about	IN
+28450,28451c28450,28451
+< fending	NN
+< off	IN
+---
+> fending	VBG
+> off	RP
+28459c28459
+< only	RB
+---
+> only	JJ
+28468c28468
+< accused	VBN
+---
+> accused	VBD
+28483c28483
+< disclosed	VBN
+---
+> disclosed	VBD
+28486c28486
+< belatedly	NN
+---
+> belatedly	RB
+28490c28490
+< 13,433	JJ
+---
+> 13,433	CD
+28561c28561
+< donated	VBN
+---
+> donated	VBD
+28576c28576
+< press	VB
+---
+> press	NN
+28605c28605
+< as	IN
+---
+> as	RB
+28634c28634
+< wimp	VB
+---
+> wimp	NN
+28647c28647
+< disclosed	VBN
+---
+> disclosed	VBD
+28653c28653
+< 850,000	JJ
+---
+> 850,000	CD
+28683c28683
+< pretty	JJ
+---
+> pretty	RB
+28710c28710
+< Democratic	JJ
+---
+> Democratic	NNP
+28730c28730
+< that	IN
+---
+> that	DT
+28805c28805
+< as	RB
+---
+> as	IN
+28945c28945
+< said	VBN
+---
+> said	VBD
+28954c28954
+< exonerated	VBD
+---
+> exonerated	VBN
+28964c28964
+< volunteered	VBD
+---
+> volunteered	VBN
+28999c28999
+< act	NN
+---
+> act	VB
+29011,29012c29011,29012
+< Common	JJ
+< Cause	NN
+---
+> Common	NNP
+> Cause	NNP
+29048c29048
+< more	JJR
+---
+> more	RBR
+29085c29085
+< 1,450	JJ
+---
+> 1,450	CD
+29115c29115
+< toy	NN
+---
+> toy	JJ
+29126c29126
+< in	RP
+---
+> in	IN
+29129c29129
+< Today	NNP
+---
+> Today	NN
+29201c29201
+< shootings	NN
+---
+> shootings	NNS
+29227c29227
+< that	DT
+---
+> that	IN
+29286,29287c29286,29287
+< chief	JJ
+< executive	NN
+---
+> chief	NN
+> executive	JJ
+29301c29301
+< leading	JJ
+---
+> leading	VBG
+29348c29348
+< toy	NN
+---
+> toy	JJ
+29374c29374
+< manufacturing	NN
+---
+> manufacturing	VBG
+29420c29420
+< premier	JJ
+---
+> premier	NN
+29460c29460
+< toy	NN
+---
+> toy	JJ
+29499c29499
+< re-exports	NNP
+---
+> re-exports	NNS
+29511c29511
+< 15.92	JJ
+---
+> 15.92	CD
+29534c29534
+< re-exports	NNP
+---
+> re-exports	NNS
+29541c29541
+< 11.28	JJ
+---
+> 11.28	CD
+29545c29545
+< Manufacturers	NNPS
+---
+> Manufacturers	NNS
+29558c29558
+< estimated	JJ
+---
+> estimated	VBN
+29651c29651
+< Matchbox	NN
+---
+> Matchbox	NNP
+29672c29672
+< Philippines	NNPS
+---
+> Philippines	NNP
+29710c29710
+< manufacturing	NN
+---
+> manufacturing	VBG
+29714c29714
+< Worries	NNP
+---
+> Worries	NNS
+29741c29741
+< Worlds	NN
+---
+> Worlds	NNPS
+29800c29800
+< improved	JJ
+---
+> improved	VBN
+29807c29807
+< long	RB
+---
+> long	VBP
+29811c29811
+< mega-hit	NN
+---
+> mega-hit	JJ
+29844c29844
+< mega-hit	VBD
+---
+> mega-hit	NN
+29852c29852
+< Turtles	NNP
+---
+> Turtles	NNPS
+29856c29856
+< figures	VBZ
+---
+> figures	NNS
+29859,29860c29859,29860
+< Playmates	NNP
+< Holdings	NNPS
+---
+> Playmates	NNPS
+> Holdings	NNP
+29864c29864
+< Introduced	NNP
+---
+> Introduced	VBN
+29866c29866
+< mid-1988	NNP
+---
+> mid-1988	CD
+29869c29869
+< 15-centimeter-tall	NN
+---
+> 15-centimeter-tall	JJ
+29890c29890
+< Playmates	NNP
+---
+> Playmates	NNPS
+29895,29896c29895,29896
+< Ninja	CD
+< Turtles	NNS
+---
+> Ninja	NNP
+> Turtles	NNPS
+29908c29908
+< biggest-selling	CD
+---
+> biggest-selling	JJ
+29915c29915
+< Should	NNP
+---
+> Should	MD
+29917c29917
+< continue	VBP
+---
+> continue	VB
+29942,29943c29942,29943
+< Ninja	JJ
+< Turtles	NN
+---
+> Ninja	NNP
+> Turtles	NNPS
+29952c29952
+< Playmates	NN
+---
+> Playmates	NNPS
+29977c29977
+< fast-selling	NN
+---
+> fast-selling	JJ
+29983c29983
+< continued	JJ
+---
+> continued	VBN
+30011c30011
+< left	VBD
+---
+> left	VBN
+30022c30022
+< toy	NN
+---
+> toy	JJ
+30035c30035
+< overstrained	JJ
+---
+> overstrained	VBN
+30042,30043c30042,30043
+< launched	VBD
+< late	RB
+---
+> launched	VBN
+> late	JJ
+30048c30048
+< Toy	NNP
+---
+> Toy	NN
+30067c30067
+< down	RB
+---
+> down	IN
+30079c30079
+< industrialization	NNP
+---
+> industrialization	NN
+30087c30087
+< Manufacturers	NNPS
+---
+> Manufacturers	NNS
+30095c30095
+< Bank	NNP
+---
+> Bank	NN
+30100c30100
+< all	RB
+---
+> all	DT
+30115c30115
+< harder-line	NNP
+---
+> harder-line	JJ
+30133c30133
+< open-door	JJ
+---
+> open-door	NN
+30142c30142
+< toy	NN
+---
+> toy	JJ
+30201c30201
+< want	VBP
+---
+> want	NN
+30209c30209
+< Playmates	NN
+---
+> Playmates	NNPS
+30258c30258
+< vs.	FW
+---
+> vs.	CC
+30274c30274
+< argued	VBN
+---
+> argued	VBD
+30319c30319
+< cases	NNS
+---
+> cases	VBZ
+30352c30352
+< minor	JJ
+---
+> minor	NN
+30373c30373
+< suggested	VBD
+---
+> suggested	VBN
+30518c30518
+< vs.	FW
+---
+> vs.	CC
+30541c30541
+< overseas	RB
+---
+> overseas	NN
+30588c30588
+< Revenue	NNP
+---
+> Revenue	NN
+30594c30594
+< 2.83	JJ
+---
+> 2.83	CD
+30623,30624c30623,30624
+< lackluster	JJ
+< third-quarter	JJ
+---
+> lackluster	NN
+> third-quarter	NN
+30665c30665
+< bottom	JJ
+---
+> bottom	NN
+30728c30728
+< higher	RBR
+---
+> higher	JJR
+30732c30732
+< scheduled	JJ
+---
+> scheduled	VBN
+30801c30801
+< 's	POS
+---
+> 's	VBZ
+30831c30831
+< up	RP
+---
+> up	IN
+30834c30834
+< 679,000	VB
+---
+> 679,000	CD
+30838c30838
+< 671,000	NNP
+---
+> 671,000	CD
+30878c30878
+< down	RB
+---
+> down	IN
+30940c30940
+< that	IN
+---
+> that	DT
+30970c30970
+< divide	VBP
+---
+> divide	VB
+30992c30992
+< rerun	JJ
+---
+> rerun	NN
+30999c30999
+< shows	VBZ
+---
+> shows	NNS
+31001c31001
+< put	VBD
+---
+> put	VBP
+31015c31015
+< that	IN
+---
+> that	DT
+31018c31018
+< either	RB
+---
+> either	CC
+31037c31037
+< so	RB
+---
+> so	IN
+31050c31050
+< fin-syn	NN
+---
+> fin-syn	JJ
+31098c31098
+< now-scuttled	NN
+---
+> now-scuttled	JJ
+31169c31169
+< passive	NN
+---
+> passive	JJ
+31175c31175
+< program-maker	NNS
+---
+> program-maker	NN
+31206c31206
+< fin-syn	NN
+---
+> fin-syn	JJ
+31234c31234
+< down	RP
+---
+> down	IN
+31248c31248
+< fin-syn	NN
+---
+> fin-syn	JJ
+31254c31254
+< privy	NN
+---
+> privy	JJ
+31270c31270
+< uninhibited	NN
+---
+> uninhibited	JJ
+31276,31278c31276,31278
+< what	WP
+< shows	VBZ
+< get	VB
+---
+> what	WDT
+> shows	NNS
+> get	VBP
+31301c31301
+< Studios	NNPS
+---
+> Studios	NNS
+31316c31316
+< long	RB
+---
+> long	JJ
+31330c31330
+< that	WDT
+---
+> that	DT
+31350c31350
+< Studio	JJ
+---
+> Studio	NN
+31357c31357
+< including	VBG
+---
+> including	JJ
+31482c31482
+< said	VBD
+---
+> said	VBN
+31504c31504
+< shows	VBZ
+---
+> shows	NNS
+31559c31559
+< Pictures	NNP
+---
+> Pictures	NNPS
+31600c31600
+< Rather	RB
+---
+> Rather	NNP
+31625c31625
+< Broadcasting	NNP
+---
+> Broadcasting	VBG
+31653c31653
+< fin-syn	NN
+---
+> fin-syn	JJ
+31657c31657
+< contributed	VBD
+---
+> contributed	VBN
+31709c31709
+< plans	VBZ
+---
+> plans	NNS
+31725c31725
+< as	RB
+---
+> as	IN
+31754c31754
+< Three	NNP
+---
+> Three	CD
+31796c31796
+< 's	VBZ
+---
+> 's	POS
+31799c31799
+< pay-cable	NN
+---
+> pay-cable	JJ
+31806c31806
+< own	VBP
+---
+> own	VB
+31822c31822
+< fin-syn	NN
+---
+> fin-syn	JJ
+31950c31950
+< Fin-syn	NNP
+---
+> Fin-syn	JJ
+31961c31961
+< passive	NN
+---
+> passive	JJ
+31969c31969
+< profits	NNS
+---
+> profits	VBZ
+31972c31972
+< rerun	JJ
+---
+> rerun	NN
+31989c31989
+< say	VBP
+---
+> say	VB
+32017c32017
+< off	RP
+---
+> off	IN
+32036c32036
+< convolutions	NN
+---
+> convolutions	NNS
+32049c32049
+< riches	NNS
+---
+> riches	NN
+32062c32062
+< fares	NNS
+---
+> fares	VBZ
+32066c32066
+< 100%-owned	NN
+---
+> 100%-owned	JJ
+32083c32083
+< Moonlighting	JJ
+---
+> Moonlighting	NNP
+32091c32091
+< share	NN
+---
+> share	VB
+32094c32094
+< continuing	JJ
+---
+> continuing	VBG
+32150,32151c32150,32151
+< tantalizingly	CD
+< close	NN
+---
+> tantalizingly	RB
+> close	JJ
+32155c32155
+< Reagan-era	NN
+---
+> Reagan-era	NNP
+32194c32194
+< 1960s	NNS
+---
+> 1960s	CD
+32201c32201
+< wield	JJ
+---
+> wield	VB
+32207c32207
+< as	RB
+---
+> as	IN
+32233c32233
+< intervened	VBN
+---
+> intervened	VBD
+32256c32256
+< Network	NNP
+---
+> Network	NN
+32275c32275
+< that	WDT
+---
+> that	DT
+32305c32305
+< raising	VBG
+---
+> raising	NN
+32348c32348
+< Sony-Columbia	NN
+---
+> Sony-Columbia	NNP
+32387c32387
+< said	VBD
+---
+> said	VBN
+32445c32445
+< contract-steering	NN
+---
+> contract-steering	JJ
+32451c32451
+< named	VBN
+---
+> named	VBD
+32456c32456
+< chief	JJ
+---
+> chief	NN
+32494c32494
+< ex-member	NNS
+---
+> ex-member	NN
+32526c32526
+< fined	VBD
+---
+> fined	VBN
+32541c32541
+< Recognition	NNP
+---
+> Recognition	NN
+32638c32638
+< data	NN
+---
+> data	NNS
+32655c32655
+< related	JJ
+---
+> related	VBN
+32669c32669
+< bidding	NN
+---
+> bidding	VBG
+32684c32684
+< suspended	VBN
+---
+> suspended	VBD
+32725,32726c32725,32726
+< third-quarter	JJ
+< net	JJ
+---
+> third-quarter	NN
+> net	NN
+32736c32736
+< discontinued	JJ
+---
+> discontinued	VBN
+32750c32750
+< net	JJ
+---
+> net	NN
+32760c32760
+< down	RB
+---
+> down	IN
+32765c32765
+< 142.7	JJ
+---
+> 142.7	CD
+32804c32804
+< joint	JJ
+---
+> joint	NN
+32814c32814
+< Earning	NNP
+---
+> Earning	NN
+32824c32824
+< microchip	JJ
+---
+> microchip	NN
+32832c32832
+< 771.4	JJ
+---
+> 771.4	CD
+32835c32835
+< down	RB
+---
+> down	IN
+32840c32840
+< 784.9	JJ
+---
+> 784.9	CD
+32850c32850
+< over-the-counter	JJ
+---
+> over-the-counter	NN
+32877c32877
+< 99.3	JJ
+---
+> 99.3	CD
+32893c32893
+< 747.3	JJ
+---
+> 747.3	CD
+32904c32904
+< succumbed	JJ
+---
+> succumbed	VBD
+32917c32917
+< down	RB
+---
+> down	IN
+32927,32928c32927,32928
+< that	DT
+< third-quarter	JJ
+---
+> that	IN
+> third-quarter	NN
+32935c32935
+< down	RB
+---
+> down	JJ
+32941,32942c32941,32942
+< 's	VBZ
+< because	RB
+---
+> 's	POS
+> because	IN
+32965c32965
+< mass	JJ
+---
+> mass	NN
+32989c32989
+< chief	JJ
+---
+> chief	NN
+33004c33004
+< improved	VBN
+---
+> improved	VBD
+33046c33046
+< net	JJ
+---
+> net	NN
+33058c33058
+< down	RB
+---
+> down	IN
+33063c33063
+< 367.1	JJ
+---
+> 367.1	CD
+33073c33073
+< Revenue	NNP
+---
+> Revenue	NN
+33080c33080
+< up	RB
+---
+> up	IN
+33136c33136
+< up	RP
+---
+> up	IN
+33164c33164
+< reunited	NN
+---
+> reunited	VBN
+33179c33179
+< graying	NN
+---
+> graying	VBG
+33201c33201
+< chief	JJ
+---
+> chief	NN
+33210c33210
+< returned	VBN
+---
+> returned	VBD
+33236c33236
+< hoisted	NN
+---
+> hoisted	VBN
+33272c33272
+< four-room	NN
+---
+> four-room	JJ
+33279c33279
+< leading	JJ
+---
+> leading	VBG
+33281c33281
+< unionist	NNP
+---
+> unionist	NN
+33290c33290
+< armed	JJ
+---
+> armed	VBN
+33293c33293
+< Umkhonto	VBD
+---
+> Umkhonto	NNP
+33295c33295
+< Sizwe	VBD
+---
+> Sizwe	NNP
+33297c33297
+< well-wishers	NNP
+---
+> well-wishers	NNS
+33308c33308
+< tooted	NN
+---
+> tooted	VBD
+33311c33311
+< antelope	NNS
+---
+> antelope	NN
+33313c33313
+< wrapped	VBD
+---
+> wrapped	VBN
+33337c33337
+< dapper	NNS
+---
+> dapper	JJ
+33363c33363
+< fists	NN
+---
+> fists	NNS
+33409c33409
+< unconditional	NN
+---
+> unconditional	JJ
+33418c33418
+< formed	VBN
+---
+> formed	VBD
+33431,33432c33431,33432
+< facto	JJ
+< unbanning	VBG
+---
+> facto	FW
+> unbanning	NN
+33453c33453
+< back	RB
+---
+> back	NN
+33466c33466
+< anti-apartheid	JJ
+---
+> anti-apartheid	NN
+33493c33493
+< no	RB
+---
+> no	DT
+33495c33495
+< back	RP
+---
+> back	NN
+33516c33516
+< jammed	VBN
+---
+> jammed	VBD
+33540,33541c33540,33541
+< Deafening	JJ
+< chants	NN
+---
+> Deafening	VBG
+> chants	NNS
+33548c33548
+< Umkhonto	NN
+---
+> Umkhonto	NNP
+33550c33550
+< Sizwe	JJ
+---
+> Sizwe	NNP
+33558c33558
+< aging	NN
+---
+> aging	VBG
+33583c33583
+< armed	JJ
+---
+> armed	VBN
+33601c33601
+< leading	JJ
+---
+> leading	VBG
+33623c33623
+< freeing	VBG
+---
+> freeing	NN
+33644c33644
+< along	RB
+---
+> along	IN
+33649c33649
+< founding	JJ
+---
+> founding	VBG
+33722c33722
+< repressive	NN
+---
+> repressive	JJ
+33780c33780
+< continued	JJ
+---
+> continued	VBN
+33785c33785
+< as	IN
+---
+> as	RB
+33790c33790
+< banning	VBG
+---
+> banning	NN
+33824c33824
+< promise	VBP
+---
+> promise	NN
+33833c33833
+< disillusionment	NNP
+---
+> disillusionment	NN
+33862c33862
+< agitation	NNS
+---
+> agitation	NN
+33902,33903c33902,33903
+< increased	VB
+< anti-government	JJ
+---
+> increased	VBN
+> anti-government	NN
+34030,34031c34030,34031
+< Lusaka	NN
+< as	IN
+---
+> Lusaka	NNP
+> as	RB
+34062c34062
+< lions	NN
+---
+> lions	NNS
+34070c34070
+< lions	NN
+---
+> lions	NNS
+34105c34105
+< considered	VBN
+---
+> considered	VBD
+34126c34126
+< firm	NN
+---
+> firm	JJ
+34140c34140
+< emphasize	VB
+---
+> emphasize	VBP
+34161c34161
+< Umkhonto	NN
+---
+> Umkhonto	NNP
+34180c34180
+< out	RP
+---
+> out	IN
