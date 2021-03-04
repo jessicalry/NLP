@@ -14,6 +14,8 @@ else:
 
 nltk.download('punkt')
 from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.stem import PorterStemmer
+
 
 
 # import time
@@ -21,6 +23,8 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 
 
 def main():
+    #stemming
+    ps = PorterStemmer()
 
     #some global variables
     TFIDF_dict_q = {}
@@ -69,7 +73,7 @@ def main():
             else:
                 if flag == True:
                     query+=word #recording the query
-                query = [word for word in query if word not in stop_list.closed_class_stop_words and\
+                query = [ps.stem(word) for word in query if word not in stop_list.closed_class_stop_words and\
                      word not in string.punctuation] #handling stopwords
 
             all_q[i] = query #add the last query into query list
@@ -167,7 +171,7 @@ def main():
             else:
                 if flag == True:
                     abstract+=word
-                abstract = [word for word in abstract if word not in stop_list.closed_class_stop_words and\
+                abstract = [ps.stem(word) for word in abstract if word not in stop_list.closed_class_stop_words and\
                      word not in string.punctuation]#handling stopwords
 
             all_ab[ID_a] = abstract #add the last abstract into abstract list
