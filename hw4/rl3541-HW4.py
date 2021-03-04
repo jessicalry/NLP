@@ -272,11 +272,13 @@ def main():
         for line in sorted_out:
             for idx in line:
                 outwrite.write(str(idx))
-                outwrite.write(" ")
+                if line.index(idx) != 2:
+                    outwrite.write(" ")
             if sorted_out.index(line)<315000:
                 outwrite.write('\n')
 
         i+=1 #go to the next query
+
     # print("--- %s seconds ---" % (time.time() - start_time))
     # print(TFIDF_dict_q)
     # print(query_idconvertor)
