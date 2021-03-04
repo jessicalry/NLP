@@ -74,7 +74,7 @@ def main():
                 if flag == True:
                     query+=word #recording the query
                 query = [ps.stem(word) for word in query if word not in stop_list.closed_class_stop_words and\
-                     word not in string.punctuation] #handling stopwords
+                     word not in string.punctuation and not word.isdigit()] #handling stopwords
 
             all_q[i] = query #add the last query into query list
         # print(all_q)
@@ -172,7 +172,7 @@ def main():
                 if flag == True:
                     abstract+=word
                 abstract = [ps.stem(word) for word in abstract if word not in stop_list.closed_class_stop_words and\
-                     word not in string.punctuation]#handling stopwords
+                     word not in string.punctuation and not word.isdigit()]#handling stopwords
 
             all_ab[ID_a] = abstract #add the last abstract into abstract list
             #ID_list.append(ID_a) #collect the last ID
@@ -276,7 +276,7 @@ def main():
             outwrite.write('\n')
 
         i+=1 #go to the next query
-    print("--- %s seconds ---" % (time.time() - start_time))
+    # print("--- %s seconds ---" % (time.time() - start_time))
     # print(TFIDF_dict_q)
     # print(query_idconvertor)
 
