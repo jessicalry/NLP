@@ -127,13 +127,12 @@ def main():
         for ID in ID_list:
             TFIDF_list = []
             for i in range(len(TF_dict[ID])):
-                TFIDF = TF_dict[ID][i] * IDF_dict[ID][i]
-                TFIDF_list.append(TFIDF)
-                TFIDF_dict_q[ID] = TFIDF_list
-        # TFIDF_dict_q = sorted(TFIDF_dict_q.items(), key=lambda kv: kv[1])
-        # with open("TFIDF_dict_q","w") as T:
-        #     for i in TFIDF_dict_q:
-        #         T.write(str(i))
+                if IDF_dict[ID][i] >= 5:
+                    TFIDF = TF_dict[ID][i] * IDF_dict[ID][i]
+                    TFIDF_list.append(TFIDF)
+                    TFIDF_dict_q[ID] = TFIDF_list
+                else:
+                    all_q.pop(ID)
         # print(TFIDF_dict_q)
 
 
@@ -231,11 +230,14 @@ def main():
         for ID in ID_list:
             TFIDF_list = []
             for i in range(len(TF_dict[ID])):
-                TFIDF = TF_dict[ID][i] * IDF_dict[ID][i]
-                TFIDF_list.append(TFIDF)
-                TFIDF_dict_a[ID] = TFIDF_list
-        # print(TFIDF_dict_a)
+                if IDF_dict[ID][i] >= 5:
+                    TFIDF = TF_dict[ID][i] * IDF_dict[ID][i]
+                    TFIDF_list.append(TFIDF)
+                    TFIDF_dict_a[ID] = TFIDF_list
+                else:
+                    all_ab.pop(ID)
 
+        # print(TFIDF_dict_a)
 
     start_time = time.time() #for my own purpose to record running time
 
@@ -250,8 +252,9 @@ def main():
         out = [[0 for i in range(3)]for j in range(len(all_ab))]
         # print(out)
 
+        a_idx = 0
         for a,abst in all_ab.items(): #loop thru all abstracts
-            a_idx = int(a)-1 #index of each word in abstract
+            # a_idx = int(a)-1 #index of each word in abstract
             # print(a_idx)
             new_vec = [0]*len(query) #init a new vector for each query to store the scores for each abstract
             idx_list = [word for word in query if word in abst] #find a list of words in both query and abstract
@@ -264,6 +267,7 @@ def main():
             for w in idx_list: #find the idx in the abstract and in query for each word in idx_list 
                 idx_ab = abst.index(w) 
                 idx_q = query.index(w)
+                ##!!
                 new_vec[idx_q] = TFIDF_dict_a[a][idx_ab] #get the TFIDF score according to the idx in the abstract
             # print(new_vec)
 
@@ -273,6 +277,8 @@ def main():
                 out[a_idx][0] = q
                 out[a_idx][1] = a
                 out[a_idx][2] = score
+
+            a_idx+=1
 
         #sort for each query 
         sorted_out = sorted(out,key=lambda l:l[2],reverse=True)
