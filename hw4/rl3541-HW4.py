@@ -12,9 +12,12 @@ except AttributeError:
 else:
     ssl._create_default_https_context = _create_unverified_https_context
 
-nltk.download('punkt')
+nltk.download('wordnet')
 from nltk.tokenize import sent_tokenize, word_tokenize
-from nltk.stem import PorterStemmer
+# from nltk.stem import PorterStemmer
+# from nltk.stem import SnowballStemmer
+from nltk.stem import WordNetLemmatizer
+# from nltk.stem import LancasterStemmer
 
 
 
@@ -24,7 +27,10 @@ from nltk.stem import PorterStemmer
 
 def main():
     #stemming
-    ps = PorterStemmer()
+    # ps = PorterStemmer()
+    # ss = SnowballStemmer('english')
+    lemma = WordNetLemmatizer()
+    # ls = LancasterStemmer()
 
     #some global variables
     TFIDF_dict_q = {}
@@ -73,7 +79,7 @@ def main():
             else:
                 if flag == True:
                     query+=word #recording the query
-                query = [ps.stem(word) for word in query if word not in stop_list.closed_class_stop_words and\
+                query = [lemma.lemmatize(word) for word in query if word not in stop_list.closed_class_stop_words and\
                      word not in string.punctuation and not word.isdigit()] #handling stopwords
 
             all_q[i] = query #add the last query into query list
@@ -124,7 +130,10 @@ def main():
                 TFIDF = TF_dict[ID][i] * IDF_dict[ID][i]
                 TFIDF_list.append(TFIDF)
                 TFIDF_dict_q[ID] = TFIDF_list
-
+        # TFIDF_dict_q = sorted(TFIDF_dict_q.items(), key=lambda kv: kv[1])
+        # with open("TFIDF_dict_q","w") as T:
+        #     for i in TFIDF_dict_q:
+        #         T.write(str(i))
         # print(TFIDF_dict_q)
 
 
@@ -171,7 +180,7 @@ def main():
             else:
                 if flag == True:
                     abstract+=word
-                abstract = [ps.stem(word) for word in abstract if word not in stop_list.closed_class_stop_words and\
+                abstract = [lemma.lemmatize(word) for word in abstract if word not in stop_list.closed_class_stop_words and\
                      word not in string.punctuation and not word.isdigit()]#handling stopwords
 
             all_ab[ID_a] = abstract #add the last abstract into abstract list
@@ -260,9 +269,10 @@ def main():
 
             score = cos_sim(TFIDF_dict_q[q], new_vec) #calculate the score for this particular abstract 
             # print(score)
-            out[a_idx][0] = q
-            out[a_idx][1] = a
-            out[a_idx][2] = score
+            if score != 0:
+                out[a_idx][0] = q
+                out[a_idx][1] = a
+                out[a_idx][2] = score
 
         #sort for each query 
         sorted_out = sorted(out,key=lambda l:l[2],reverse=True)
